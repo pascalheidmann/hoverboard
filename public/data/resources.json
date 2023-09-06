@@ -317,7 +317,8 @@
         "description": "<a href='https://www.meetup.com/Google-Developer-Group-Hamburg/' target='_blank'>GDG Hamburg</a> with support of GDGs from all around is proud organizer of DevFest Hamburg",
         "callToAction": {
           "label": "Open team page",
-          "link": "/team"
+          "_link": "/team",
+          "link": "/"
         }
       },
       {
