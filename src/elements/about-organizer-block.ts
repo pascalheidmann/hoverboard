@@ -56,11 +56,11 @@ export class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
       <div class="container" layout horizontal>
         <div layout horizontal center-center flex hidden$="[[viewport.isPhone]]">
           <a href="/team" class="image-link">
-            <lazy-image
+            <!-- lazy-image
               class="organizers-photo"
               src="[[aboutOrganizerBlock.image]]"
               alt="Organizer"
-            ></lazy-image>
+            ></lazy-image -->
           </a>
         </div>
 

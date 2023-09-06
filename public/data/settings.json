@@ -1,55 +1,56 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Hamburg",
+    "twitter": "devfesthh",
+    "blog": "https://medium.com/gdg-hamburg",
+    "url": "https://hamburg.devfest.de/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2023-11-03T09:00:00+01:00",
+  "endDate": "2023-11-04T19:00:00+01:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest HH",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest",
-  "disabledSchedule": false,
+  "hashtag": "DevFestHH23",
+  "_disabledSchedule": false,
+  "disabledSchedule": true,
+  "_navigation": [{
+    "route": "speakers",
+    "permalink": "/speakers",
+    "label": "Speakers"
+  },
+  {
+    "route": "schedule",
+    "permalink": "/schedule",
+    "label": "Schedule"
+  },
+  {
+    "route": "team",
+    "permalink": "/team",
+    "label": "Team"
+  },
+  {
+    "route": "blog",
+    "permalink": "/blog",
+    "label": "Blog"
+  }],
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
       "label": "Home"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule",
-      "label": "Schedule"
-    },
-    {
-      "route": "team",
-      "permalink": "/team",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "Driven by and for the community!",
       "background": {
         "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/dfhh_header.jpg"
       },
       "fontColor": "#FFF"
     },
@@ -121,42 +122,42 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Sparkassen Innovation HUB",
+    "city": "Hamburg",
+    "short": "Hamburg, Germany",
+    "address": "Grüner Deich 15, 20097 Hamburg, Germany",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 53.543470,
+      "longitude": 10.027490,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "We are pleased to be guests at the Sparkassen Innovation HUB for the first time."
   },
   "socialNetwork": {
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/Google-Developer-Group-Hamburg"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdghamburg/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/devfesthh/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": ""
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCVjKvikisKAnJ2zKqi_4pxg"
       }
     ],
     "share": [
@@ -170,7 +171,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "team@devfest.de",
   "signInProviders": {
     "providersData": [
       {
@@ -207,5 +208,9 @@
       "itemsCount": 5
     }
   },
-  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
+  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"],
+  "callForPapers": {
+    "link": "https://sessionize.com/devfest-hamburg-2023",
+    "title": "Call for Presentations"
+  }
 }

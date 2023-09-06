@@ -69,11 +69,11 @@ export class FooterNav extends PolymerElement {
 
       <div class="nav-inline" layout flex>
         <a href="[[organizer.url]]" target="_blank" rel="noopener noreferrer">
-          <lazy-image
+          <!--lazy-image
             class="footer-logo"
             src="../../images/organizer-logo.svg"
             alt="[[organizer.name]]"
-          ></lazy-image>
+          ></lazy-image-->
         </a>
 
         <div class="copyright">
