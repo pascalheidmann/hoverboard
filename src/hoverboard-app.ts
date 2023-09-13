@@ -175,7 +175,7 @@ export class HoverboardApp extends PolymerElement {
             <div>
               <app-install></app-install>
 
-              <a
+              <!--a
                 class="bottom-drawer-link"
                 href$="[[ticketUrl]]"
                 target="_blank"
@@ -187,7 +187,7 @@ export class HoverboardApp extends PolymerElement {
               >
                 <span>[[buyTicket]]</span>
                 <iron-icon icon="hoverboard:open-in-new"></iron-icon>
-              </a>
+              </a-->
             </div>
           </div>
         </app-drawer>
