@@ -182,9 +182,9 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             [[signInText]]
           </paper-tab-->
 
-          <!--a href$="[[ticketUrl]]" target="_blank" rel="noopener noreferrer">
+          <a href$="[[ticketUrl]]" target="_blank" rel="noopener noreferrer">
             <paper-button class="buy-button" primary>[[buyTicket]]</paper-button>
-          </a-->
+          </a>
         </paper-tabs>
 
         <notification-toggle></notification-toggle>

@@ -20,7 +20,7 @@ If you’re unable to attend DevFest in-person, you can still be part of the mag
 
 ### Drawing Dates
 
-The window to buy a ticket will be opened until 6 PM GMT+2 on October 11th, 2018, or earlier if the tickets are sold out. If the ticket was bought after September 30th registered participants won’t get printed badge (their names will be written on the badge by marker). To buy a ticket [follow the link](https://2event.com/events/1027108), select the required ticket type, fill in the required information and pay for it.
+The window to buy a ticket will be opened until 6 PM GMT+2 on October 11th, 2018, or earlier if the tickets are sold out. If the ticket was bought after September 30th registered participants won’t get printed badge (their names will be written on the badge by marker). To buy a ticket [follow the link](https://www.eventbrite.com/e/devfest23-hamburg-tickets-722782460797), select the required ticket type, fill in the required information and pay for it.
 
 Once you've successfully paid for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
 
@@ -68,7 +68,7 @@ Special tickets for real supporters of our conference. As we’re organizing the
 - By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Ukraine, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization.
 - At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
 - If you buy an EDU ticket and can't provide academic documentation during check-in at GDG DevFest Ukraine, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID or other proof that you are qualified to receive this special rate when you check-in at the conference.
-- Ticket purchases can be refunded before October 4th, 2018 via your profile at the [ticket service website](https://2event.com/events/1027108).
+- Ticket purchases can be refunded before October 4th, 2018 via your profile at the [ticket service website](https://www.eventbrite.com/e/devfest23-hamburg-tickets-722782460797).
 - After October 4th, 2018, all ticket sales are final. There will be no refunds or exchanges regardless of weather conditions, session availability, or any other circumstance.
 - Attendees aren’t permitted to bring guests to GDG DevFest Ukraine or to the after-hours party. If you have someone traveling with you, they’ll need to register themselves and purchase an attendee ticket.
 - Photographs and/or video that were taken at GDG DevFest Ukraine by GDG Lviv, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Lviv may use such photographs and/or videos for any purpose without any compensation to you.
