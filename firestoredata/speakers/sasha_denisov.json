@@ -1,0 +1,38 @@
+{
+    "country": "Berlin, Germany",
+    "featured": true,
+    "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_200_200/0/1677598469595?e=1704326400&v=beta&t=Qjpp87DsmpOVBZhYu_bM-UMtxsI-5wZ6eJ4k7ecC-Sg",
+    "bio": "Chief Software Engineer, Head of Flutter Discipline at EPAM Systems. Flutter and Dart GDE. Co-organizer of Flutter Berlin. Mobile People Community Leader",
+    "photo": "https://media.licdn.com/dms/image/C4E03AQG-j1bMwTiI4Q/profile-displayphoto-shrink_400_400/0/1526862944538?e=1701907200&v=beta&t=pYHPALDFFY_cf52KnXWq7z_H8XzvYYZGtV1lixL1r9s",
+    "title": "Chief Software Engineer",
+    "photoUrl": "https://media.licdn.com/dms/image/C4E03AQG-j1bMwTiI4Q/profile-displayphoto-shrink_400_400/0/1526862944538?e=1701907200&v=beta&t=pYHPALDFFY_cf52KnXWq7z_H8XzvYYZGtV1lixL1r9s",
+    "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_200_200/0/1677598469595?e=1704326400&v=beta&t=Qjpp87DsmpOVBZhYu_bM-UMtxsI-5wZ6eJ4k7ecC-Sg",
+    "name": "Sasha Denisov",
+    "shortBio": "Chief Software Engineer, Head of Flutter Discipline at EPAM Systems. Flutter and Dart GDE. Co-organizer of Flutter Berlin. Mobile People Community Leader",
+    "company": "EPAM Systems",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/aleks-denisov",
+            "name": "LinkedIn"
+        }, {
+            "icon": "github",
+            "link": "https://github.com/denisovav",
+            "name": "GitHub"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/shuregdenisov",
+            "name": "Twitter"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/adenisov",
+          "name": "gde",
+          "description": "Dart/Flutter Google Developer Expert"
+        }
+      ],
+    "order": 0
+  }

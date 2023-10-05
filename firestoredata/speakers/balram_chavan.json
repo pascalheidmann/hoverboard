@@ -1,0 +1,37 @@
+{
+    "country": "Mainz; Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/Boehringer-Ingelheim.png",
+    "bio": "An architect with 13+ years of industry experience in designing, architecting and building scalable and secure solutions for Pharmaceutical, Finance, Accounting, Automation and Automobile domains using Microsoft .NET, Node.js, Python, JavaScript, Typescript, Angular, Ionic, AWS, Azure, GCP and DevOps tools. Written a book on Angular framework. Great team player, effective communicator, quick learner and problem solver.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FBalram_Chavan.jpg?alt=media&token=7fe47e1c-e102-42ee-813a-cbc60936f895",
+    "title": "Google Developer Expert Angular | Software Architect | Advisory Board Member | Author",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FBalram_Chavan.jpg?alt=media&token=7fe47e1c-e102-42ee-813a-cbc60936f895",
+    "companyLogoUrl": "/images/logos/Boehringer-Ingelheim.png",
+    "name": "Balram Chavan",
+    "shortBio": "An architect with 13+ years of industry experience in designing, architecting and building scalable and secure solutions for Pharmaceutical, Finance, Accounting, Automation and Automobile domains using Microsoft .NET, Node.js, Python, JavaScript, Typescript, Angular, Ionic, AWS, Azure, GCP and DevOps tools. Written a book on Angular framework. Great team player, effective communicator, quick learner and problem solver.",
+    "company": "Boehringer Ingelheim",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/balram-chavan",
+            "name": "LinkedIn"
+        },{
+            "icon": "website",
+            "link": "https://balramchavan.medium.com/",
+            "name": "Medium"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/uvbrain",
+            "name": "Twitter"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/balramchavan",
+          "name": "gde",
+          "description": "Angular Google Developer Expert"
+        }
+    ],
+    "order": 0
+  }

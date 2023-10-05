@@ -1,0 +1,34 @@
+{
+    "country": "London, United Kingdom",
+    "featured": true,
+    "companyLogo": "/images/logos/JPMorgan.svg",
+    "bio": "Teresa is a public speaker, Google Developer Expert (GDE), mentor, and software engineer who is passionate about front-end development and Cloud technology. She has been working with many talented developers to craft various apps and projects throughout the years, and she likes to explore the world of multi-platform, the fun of continuous delivery, and seeing through the product from development to release.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FTeresa_wu.jpg?alt=media&token=bd8ac958-3080-49ea-8d03-b2b79cb01509",
+    "title": "VP Engineer at J.P. Morgan, GDE Flutter/Dart",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FTeresa_wu.jpg?alt=media&token=bd8ac958-3080-49ea-8d03-b2b79cb01509",
+    "companyLogoUrl": "/images/logos/JPMorgan.svg",
+    "name": "Teresa Wu",
+    "shortBio": "Teresa is a public speaker, Google Developer Expert (GDE), mentor, and software engineer who is passionate about front-end development and Cloud technology. She has been working with many talented developers to craft various apps and projects throughout the years, and she likes to explore the world of multi-platform, the fun of continuous delivery, and seeing through the product from development to release.",
+    "company": "J.P. Morgan",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/teresa_wyy",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/yayiwu/",
+            "name": "LinkedIn"
+          }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/teresawu",
+          "name": "gde",
+          "description": "Dart/Flutter Google Developer Expert"
+        }
+      ],
+    "order": 0
+  }

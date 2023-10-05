@@ -1,0 +1,32 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/valtech.png",
+    "bio": "My name is Kateryna Hrytsaienko, I'm Software Engineering Consultant at Valtech, Google Developer Student Club Menor, Google Woman Techmakers Ambassador, passionate Cloud and CI/CD Automation Enthusiast. I mostly work with E-commerce projects, developing composable solutions and contributing to libraries for company-wide use. I summarize my experience in my blog, where I also share leadership tips and tricks for novice GDSC leaders. About GDSC… that's where things got even more interesting! With our local chapters, we host workshops, tech talks and speaker sessions for educational purposes. One of our latest projects is about algorithms for beginners -- AlgoClub. A completely awesome initiative. For 3 years, our chapter has kept organizing tech events for beginners, and even when the war started -- we kept our vector on doing our best to give students access to free educational materials. In-person, on-demand and virtual.🤗 Thank you for your time and hope to see you soon at the DevFest. Cheers!",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FKateryna_Hrytsaienko.jpg?alt=media&token=6ba5d022-0408-4d79-8111-7244a74dc178",
+    "title": "Software Engineer Consultant Valtech | Woman Techmakers Ambassador| GDSC Mentor",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FKateryna_Hrytsaienko.jpg?alt=media&token=6ba5d022-0408-4d79-8111-7244a74dc178",
+    "companyLogoUrl": "/images/logos/valtech.png",
+    "name": "Kateryna Hrytsaienko",
+    "shortBio": "I'm Software Engineering Consultant at Valtech, Google Developer Student Club Menor, Google Woman Techmakers Ambassador, passionate Cloud and CI/CD Automation Enthusiast.",
+    "company": "Valtech",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/grizik_ek",
+            "name": "Twitter"
+          },
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ekaterina-gricaenko/",
+            "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/grizik_k/",
+          "name": "Instagram"
+        }
+    ],
+    "order": 1
+  }

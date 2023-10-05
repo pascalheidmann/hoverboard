@@ -1,0 +1,45 @@
+{
+    "country": "Berlin, Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/tier.svg",
+    "bio": "Marco is an Android engineer, currently working at TIER. He is a Google Developer Expert for Kotlin, he loves Kotlin and he has experience with native Android and native iOS development, as well as cross-platform development with Flutter and Kotlin Multiplatform. In his spare time, he writes and maintains open-source code, he shares his dev experience by writing on his blog, speaking at confs and organizing events with the Google Developer Group Venezia and he plays basketball.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMarco_Gomiero.jpg?alt=media&token=13f05219-d760-4591-bf8c-71ad54a2465f",
+    "title": "Senior Android Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMarco_Gomiero.jpg?alt=media&token=13f05219-d760-4591-bf8c-71ad54a2465f",
+    "companyLogoUrl": "/images/logos/tier.svg",
+    "name": "Marco Gomiero",
+    "shortBio": "Marco is an Android engineer, currently working at TIER. He is a Google Developer Expert for Kotlin, he loves Kotlin and he has experience with native Android and native iOS development, as well as cross-platform development with Flutter and Kotlin Multiplatform. In his spare time, he writes and maintains open-source code, he shares his dev experience by writing on his blog, speaking at confs and organizing events with the Google Developer Group Venezia and he plays basketball.",
+    "company": "TIER",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/marco-gomiero/",
+            "name": "LinkedIn"
+        },
+        {
+            "icon": "website",
+            "link": "https://www.marcogomiero.com",
+            "name": "Blog"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/marcoGomier",
+            "name": "Twitter"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/marcogomiero",
+          "name": "gde",
+          "description": "Google Developer Expert for Kotlin"
+        },{
+          "link": "https://gdg.community.dev/gdg-venezia/",
+          "name": "gdg",
+          "description": "Google Developer Group Venezia"
+        }
+    ],
+    
+
+    "order": 0
+  }

@@ -1,0 +1,30 @@
+{
+    "country": "Mailand, Italy",
+    "featured": true,
+    "companyLogo": "/images/logos/odin.png",
+    "bio": "Philosopher ego-less tech lead, speaker, open-source maintainer, mentor, and community enthusiast. I am specialized in coding complex domain logic and writing clean and testable code, with a massive focus on performance and developer experience.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FDamiano_Petrungaro.jpg?alt=media&token=8da41111-3397-4818-8f6e-ed1fb3961473",
+    "title": "Staff Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FDamiano_Petrungaro.jpg?alt=media&token=8da41111-3397-4818-8f6e-ed1fb3961473",
+    "companyLogoUrl": "/images/logos/odin.png",
+    "name": "Damiano Petrungaro",
+    "shortBio": "Philosopher ego-less tech lead, speaker, open-source maintainer, mentor, and community enthusiast. I am specialized in coding complex domain logic and writing clean and testable code, with a massive focus on performance and developer experience.",
+    "company": "Odin",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/damianopetrungaro",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/damiano_dev",
+            "name": "Twitter"
+        },{
+            "icon": "website",
+            "link": "https://damianopetrungaro.com",
+            "name": "Blog"
+        }
+    ],
+    "order": 0
+  }

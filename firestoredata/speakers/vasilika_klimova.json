@@ -1,0 +1,38 @@
+{
+    "country": "Luxembourg",
+    "featured": true,
+    "companyLogo": "/images/logos/full-kadena-logo.png",
+    "bio": "I have been a Web Developer for over 13 years (Frontend mostly, but also Fullstack).I had experience working as a single web developer, as a member of big teams in FinTech, and as a Team Lead of a small team. I enjoyed working on web 3D projects, awesome animations, visualizations, and good infographics. I am a speaker & organizer of tech meetups and conferences. I helped many students at different schools with learning web development. I like tech communities and modern technologies. Last 7 years, I have been living in Luxembourg and holding a Luxembourg JavaScript meetup.In 2023 I started to work as a Developer Relations Engineer at Kadena. My passion is 🎮 video/board games, 🏞️ traveling, 🤿 diving, animals (I have a red cat 🐈), and cinema 🎥. I collect children's books from different countries and Christmas tree decorations.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FVasilika_Klimova.jpg?alt=media&token=d4862c7f-fde4-49b1-bb81-7079fe9d9bad",
+    "title": "Developer Relations Engineer ∾ 13+ years Software Engineer ∾ Google Developer Expert ∾ Women Techmakers Ambassador ∾ Teacher ∾ Speaker",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FVasilika_Klimova.jpg?alt=media&token=d4862c7f-fde4-49b1-bb81-7079fe9d9bad",
+    "companyLogoUrl": "/images/logos/full-kadena-logo.png",
+    "name": "Vasilika Klimova",
+    "shortBio": "I have been a Web Developer for over 13 years (Frontend mostly, but also Fullstack).I had experience working as a single web developer, as a member of big teams in FinTech, and as a Team Lead of a small team.",
+    "company": "Kadena",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/likita/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/Lik04ka",
+            "name": "Twitter"
+        },{
+            "icon": "instagram",
+            "link": "https://www.instagram.com/vasile0k/",
+            "name": "Instagram"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/teresawu",
+          "name": "gde",
+          "description": "Dart/Flutter Google Developer Expert"
+        }
+      ],
+
+    "order": 0
+  }

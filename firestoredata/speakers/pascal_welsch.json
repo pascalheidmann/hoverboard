@@ -1,0 +1,32 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/phntm.png",
+    "bio": "Remzi has more than 15 years of experience in & and AI/ML related roles and currently works at Google Cloud in Munich, Germany as Data & AI/ML Specialist. Remzi helps a number of companies regularly to modernize their data environments and implement miscellaneous AI/ML solutions.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FPascal_Welsch.png?alt=media&token=84bf2730-4a02-40fa-840b-24369997452b",
+    "title": "Flutter GDE, CTO at PHNTM, Co-Founder of Wiredash",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FPascal_Welsch.png?alt=media&token=84bf2730-4a02-40fa-840b-24369997452b",
+    "companyLogoUrl": "/images/logos/phntm.png",
+    "name": "Pascal Welsch",
+    "shortBio": "Remzi has more than 15 years of experience in & and AI/ML related roles and currently works at Google Cloud in Munich, Germany as Data & AI/ML Specialist. Remzi helps a number of companies regularly to modernize their data environments and implement miscellaneous AI/ML solutions.",
+    "company": "PHNTM",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/pascal-welsch-679a2b80/",
+            "name": "LinkedIn"
+        },
+        {
+            "icon": "website",
+            "link": "https://pascal.page",
+            "name": "Website"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/passsy",
+            "name": "Twitter"
+        }
+    ],
+    "order": 0
+  }

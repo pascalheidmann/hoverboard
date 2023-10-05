@@ -1,0 +1,49 @@
+{
+    "country": "Hamburg, Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/webdave.jpg",
+    "bio": "David Muellerchen is an Angular consultant, trainer and streamer. David has a passion: sharing knowledge. He loves to speak and teach at meetups and conferences. He learns new stuff and shows known stuff during his live sessions on Twitch. He is an organizer of the Hamburg Angular Meetup, team member of ng-de and a GDE in Web Technologies and Angular.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FDavid_Mullerchen.png?alt=media&token=959dd2a0-7fd8-48bf-9b42-56edecbc88ea",
+    "title": "GDE Angular",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FDavid_Mullerchen.png?alt=media&token=959dd2a0-7fd8-48bf-9b42-56edecbc88ea",
+    "companyLogoUrl": "/images/logos/webdave.jpg",
+    "name": "David Müllerchen",
+    "shortBio": "David Muellerchen is an Angular consultant, trainer and streamer.",
+    "company": "Webdave",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/david-muellerchen/",
+            "name": "LinkedIn"
+        },
+        {
+            "icon": "website",
+            "link": "https://webdave.de",
+            "name": "Website"
+        },
+        {
+            "icon": "website",
+            "link": "https://webdave.tv",
+            "name": "Blog"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/webdave_de",
+            "name": "Twitter"
+        },
+        {
+            "icon": "github",
+            "link": "https://github.com/web-dave",
+            "name": "GitHub"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/webdave_de",
+          "name": "gde",
+          "description": "Angular Google Developer Expert"
+        }
+      ],
+    "order": 0
+  }

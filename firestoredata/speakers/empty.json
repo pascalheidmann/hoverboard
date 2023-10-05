@@ -1,0 +1,22 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "",
+    "bio": "",
+    "photo": "",
+    "title": "",
+    "photoUrl": "",
+    "companyLogoUrl": "",
+    "name": "",
+    "shortBio": "",
+    "company": "",
+    "pronouns": "",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "",
+            "name": "LinkedIn"
+        }
+    ],
+    "order": 0
+  }

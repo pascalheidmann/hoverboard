@@ -1,0 +1,41 @@
+{
+    "country": "Schirnding, Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/kubermatic.png",
+    "bio": "A tech enthusiastic geek working with Kubernetes and other various Cloud Native Software. Also, a community member, who try to spread cloud technologies throughout communities. Organizing the GDG Munich Cloud and Google Developer Expert for Cloud Technologies",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMario_Fahlandt.jpeg?alt=media&token=f18fa52f-dda1-4f67-ad3f-f3f391c0f096",
+    "title": "Kubernetes Consultant",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMario_Fahlandt.jpeg?alt=media&token=f18fa52f-dda1-4f67-ad3f-f3f391c0f096",
+    "companyLogoUrl": "/images/logos/kubermatic.png",
+    "name": "Mario Fahlandt",
+    "shortBio": "A tech enthusiastic geek working with Kubernetes and other various Cloud Native Software. Also, a community member, who try to spread cloud technologies throughout communities. Organizing the GDG Munich Cloud and Google Developer Expert for Cloud Technologies",
+    "company": "Kubermatic",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/mfahlandt/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/mfahlandt",
+            "name": "Twitter"
+        },{
+            "icon": "github",
+            "link": "https://github.com/mfahlandt",
+            "name": "GitHub"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/mario",
+          "name": "gde",
+          "description": "Google Developer Expert for Cloud Technologies"
+        },{
+          "link": "https://gdg.community.dev/gdg-cloud-munich/",
+          "name": "gdg",
+          "description": "GDG Munich Cloud Organizer"
+        }
+    ],
+    "order": 0
+  }
