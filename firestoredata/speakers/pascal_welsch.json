@@ -1,14 +1,14 @@
 {
-    "country": "",
+    "country": "Germany",
     "featured": true,
     "companyLogo": "/images/logos/phntm.png",
-    "bio": "Remzi has more than 15 years of experience in & and AI/ML related roles and currently works at Google Cloud in Munich, Germany as Data & AI/ML Specialist. Remzi helps a number of companies regularly to modernize their data environments and implement miscellaneous AI/ML solutions.",
+    "bio": "Pascal (Flutter GDE) had a 6-year-long Android background before he transitioned to ditch Kotlin for Dart and Flutter. At PHNTM he leads a team of Flutter talents delivering stunning user interfaces to audiences on all platforms. Pascal is a strong believer in testing and open-source. If you find any of his packages in your dependencies they are certainly well tested. Like his Feedback SDK Wiredash.",
     "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FPascal_Welsch.png?alt=media&token=84bf2730-4a02-40fa-840b-24369997452b",
     "title": "Flutter GDE, CTO at PHNTM, Co-Founder of Wiredash",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FPascal_Welsch.png?alt=media&token=84bf2730-4a02-40fa-840b-24369997452b",
     "companyLogoUrl": "/images/logos/phntm.png",
     "name": "Pascal Welsch",
-    "shortBio": "Remzi has more than 15 years of experience in & and AI/ML related roles and currently works at Google Cloud in Munich, Germany as Data & AI/ML Specialist. Remzi helps a number of companies regularly to modernize their data environments and implement miscellaneous AI/ML solutions.",
+    "shortBio": "Pascal (Flutter GDE) had a 6-year-long Android background before he transitioned to ditch Kotlin for Dart and Flutter.",
     "company": "PHNTM",
     "pronouns": "he/him",
     "socials": [
@@ -26,6 +26,13 @@
             "icon": "twitter",
             "link": "https://twitter.com/passsy",
             "name": "Twitter"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/pascal",
+          "name": "gde",
+          "description": "Google Developer Expert for Flutter"
         }
     ],
     "order": 0
