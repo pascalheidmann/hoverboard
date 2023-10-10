@@ -1,0 +1,26 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/epam.png",
+    "bio": "Systems engineer by day at EPAM and hobbyist open source contributor by night at Next Hat",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FIrine_Kokilashvili.png?alt=media&token=1c7c8a7b-508f-4f52-879a-7e8a5ee2c86b",
+    "title": "Systems Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FIrine_Kokilashvili.png?alt=media&token=1c7c8a7b-508f-4f52-879a-7e8a5ee2c86b",
+    "companyLogoUrl": "/images/logos/epam.png",
+    "name": "Irine Kokilashvili",
+    "shortBio": "Systems engineer by day at EPAM and hobbyist open source contributor by night at Next Hat",
+    "company": "EPAM",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/irine-kokilashvili-84627a264/",
+            "name": "LinkedIn"
+        },{
+            "icon": "github",
+            "link": "https://github.com/scirin",
+            "name": "GitHub"
+        }
+    ],
+    "order": 0
+  }

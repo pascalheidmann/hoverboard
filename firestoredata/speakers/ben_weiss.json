@@ -1,0 +1,32 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/google.svg",
+    "bio": "Improving Android Developer's experience, one technology at a time.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FBen_Weiss.jpg?alt=media&token=7f563d9c-b69d-4e61-80ed-549984b81932",
+    "title": "Android Developer Relations",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FBen_Weiss.jpg?alt=media&token=7f563d9c-b69d-4e61-80ed-549984b81932",
+    "companyLogoUrl": "/images/logos/google.svg",
+    "name": "Ben Weiss",
+    "shortBio": "Improving Android Developer's experience, one technology at a time.",
+    "company": "Google",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/keyboardsurfer",
+            "name": "Twitter"
+        },
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/keyboardsurfer/",
+            "name": "LinkedIn"
+        },
+        {
+            "icon": "medium",
+            "link": "https://medium.com/@keyboardsurfer",
+            "name": "Medium"
+        }
+    ],
+    "order": 0
+  }

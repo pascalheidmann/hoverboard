@@ -1,0 +1,22 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/aws.png",
+    "bio": "",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FJathavan_Sriram.jpg?alt=media&token=647e87b5-201d-4dd6-8fca-19abc3fbdddb",
+    "title": "AWS - Cloud Infrastructure Architect",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FJathavan_Sriram.jpg?alt=media&token=647e87b5-201d-4dd6-8fca-19abc3fbdddb",
+    "companyLogoUrl": "/images/logos/aws.png",
+    "name": "Jathavan Sriram",
+    "shortBio": "",
+    "company": "Amazon",
+    "pronouns": "he/his",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/jathavansriram/",
+            "name": "LinkedIn"
+        }
+    ],
+    "order": 0
+  }

@@ -1,0 +1,34 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/ubilabs.png",
+    "bio": "Martin is the 'Head of Development' and co-founder of Ubilabs. With expertise in interactive maps, location intelligence, and data analytics, Ubilabs provides custom web applications and consulting services for Google Maps and Google Cloud globally.\n\nHe is a recognized 'Google Developer Expert' for the Google Maps Platform and a renowned public speaker, known for his innovative projects like the spinning globe code in 1024 bytes of JavaScript, JSFuck, and programs written in Asian characters.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMartin_Kleppe.jpg?alt=media&token=c5964aa6-f694-4553-89a6-bcb86f2191fd",
+    "title": "Head of Development",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMartin_Kleppe.jpg?alt=media&token=c5964aa6-f694-4553-89a6-bcb86f2191fd",
+    "companyLogoUrl": "/images/logos/ubilabs.png",
+    "name": "Martin Kleppe",
+    "shortBio": "Martin is the 'Head of Development' and co-founder of Ubilabs.",
+    "company": "Ubilabs",
+    "pronouns": "he/his",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/aemkei/",
+            "name": "LinkedIn"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/aemkei",
+            "name": "Twitter"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/aemkei",
+          "name": "gde",
+          "description": "Google Developer Expert for Maps"
+        }
+    ],
+    "order": 0
+  }

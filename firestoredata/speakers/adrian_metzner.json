@@ -1,0 +1,22 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/wps.png",
+    "bio": "As of 2014 Adrian Metzner is working as a software developer. His focus lies in IT Security as well as DevOps. At WPS - Workplace Solutions he is working as a Software-Architect, IT Security Consultant and Trainer for the iSAQB Modules Cloud-Infra and WEBSEC.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FAdrian_Metzner.jpg?alt=media&token=f7382807-1243-4cef-932a-ba606cfa6aa0",
+    "title": "WPS - Workplace Solutions GmbH, Software-Architekt, IT-Security Consultant",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FAdrian_Metzner.jpg?alt=media&token=f7382807-1243-4cef-932a-ba606cfa6aa0",
+    "companyLogoUrl": "/images/logos/wps.png",
+    "name": "Adrian Metzner",
+    "shortBio": "As of 2014 Adrian Metzner is working as a software developer. His focus lies in IT Security as well as DevOps. At WPS - Workplace Solutions he is working as a Software-Architect, IT Security Consultant and Trainer for the iSAQB Modules Cloud-Infra and WEBSEC.",
+    "company": "WPS",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "website",
+            "link": "https://www.wps.de",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }

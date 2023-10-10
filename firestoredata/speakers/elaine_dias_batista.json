@@ -1,0 +1,34 @@
+{
+    "country": "France",
+    "featured": true,
+    "companyLogo": "/images/logo/sefir.png",
+    "bio": "Elaine is a Senior Staff Engineer at SFEIR where she works on projects including mobile technologies since 2013. She has worked on several projects in native Android/iOS and Flutter. She's a GDE for the Google Assistant, Flutter and Dart",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FElaine_Dias_Batista.jpg?alt=media&token=8c07fa56-3755-4c42-a11d-6bc7ede4c9fb",
+    "title": "Team Leader",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FElaine_Dias_Batista.jpg?alt=media&token=8c07fa56-3755-4c42-a11d-6bc7ede4c9fb",
+    "companyLogoUrl": "/images/logo/sefir.png",
+    "name": "Elaine Dias Batista",
+    "shortBio": "Elaine is a Senior Staff Engineer at SFEIR where she works on projects including mobile technologies since 2013.",
+    "company": "SEFIR",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/elainedbatista",
+            "name": "Twitter"
+        },
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/elaine-dias-batista/",
+            "name": "LinkedIn"
+        }
+    ],
+    "order": 0,
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/elaine",
+          "name": "gde",
+          "description": "GDE for the Google Assistant, Flutter and Dart"
+        }
+    ]
+}

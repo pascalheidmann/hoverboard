@@ -1,0 +1,37 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/scaratec.png",
+    "bio": "Randy is a Google Developer Expert for Cloud and also Organizer of the GDG Düsseldorf. With a professional experience of more 20 years in software development he is focused today on building microservices applications on top of kubernetes.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FRandy_Gupta.jpg?alt=media&token=4d70cb13-bbb6-469e-90a7-0a61ba811b7d",
+    "title": "Cloud Architect",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FRandy_Gupta.jpg?alt=media&token=4d70cb13-bbb6-469e-90a7-0a61ba811b7d",
+    "companyLogoUrl": "/images/logos/scaratec.png",
+    "name": "Randy Gupta",
+    "shortBio": "Randy is a Google Developer Expert for Cloud and also Organizer of the GDG Düsseldorf. With a professional experience of more 20 years in software development he is focused today on building microservices applications on top of kubernetes.",
+    "company": "Scaratec",
+    "pronouns": "he/his",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/randygupta/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/RandyGupta",
+            "name": "Twitter"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/randygupta",
+          "name": "gde",
+          "description": "Google Developer Expert for Cloud Technologies"
+        },{
+          "link": "https://gdg.community.dev/gdg-dusseldorf/",
+          "name": "gdg",
+          "description": "GDG Düsseldorf Organizer"
+        }
+    ],
+    "order": 0
+  }

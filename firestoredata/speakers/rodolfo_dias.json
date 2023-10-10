@@ -1,0 +1,33 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/yara.png",
+    "bio": "Team Leadership ❤️ JS ❤️ Open Source\nRodolfo has worked in a diverse pool of companies and research centers, in South America and Europe. He is Software Engineering Manager at Yara International and manages the software engineering teams of Yara's farming experience platform, with the goal of enabling regenerative agriculture and minimizing the climate impact of farming",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FRodolfo_Dias.jpg?alt=media&token=0d84d957-01c5-494d-99fe-9fd0e2521895",
+    "title": "Google Developer Expert for Web Technologies • Software Engineering Manager",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FRodolfo_Dias.jpg?alt=media&token=0d84d957-01c5-494d-99fe-9fd0e2521895",
+    "companyLogoUrl": "/images/logos/yara.png",
+    "name": "Rodolfo Dias",
+    "shortBio": "Team Leadership ❤️ JS ❤️ Open Source\nRodolfo has worked in a diverse pool of companies and research centers, in South America and Europe. He is Software Engineering Manager at Yara International and manages the software engineering teams of Yara's farming experience platform, with the goal of enabling regenerative agriculture and minimizing the climate impact of farming",
+    "company": "Yara International",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/rmdias29/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/r_mdias",
+            "name": "Twitter"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/rmdias",
+          "name": "gde",
+          "description": "Google Developer Expert for Cloud Technologies"
+        }
+    ],
+    "order": 0
+  }

@@ -1,0 +1,37 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "",
+    "bio": "Segun Famisa is a Software Engineer based in Berlin, Germany and has been developing for Android since Gingerbread.\n\nOriginally from Nigeria, he has previously worked at Andela as an Android Consultant in Lagos, Nigeria where he worked with various partners on their Android projects.\n\nHe also worked at different teams across multiple industries including Konga (e-commerce), trivago (travel), SoundCloud (music streaming), DeliveryHero (food ordering & delivery).\n\nHe is passionate about Android development and loves to share his passion and findings through technical articles on his blog as well as speaking about the platform. He is an amateur bass player and he does some painting in his spare time.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FOluwasegun_Famisa.jpg?alt=media&token=2aa077f4-5622-41c6-b896-8d18792d1cd8",
+    "title": "Senior Android Engineer & Android GDE",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FOluwasegun_Famisa.jpg?alt=media&token=2aa077f4-5622-41c6-b896-8d18792d1cd8",
+    "companyLogoUrl": "",
+    "name": "Oluwasegun Famisa",
+    "shortBio": "Segun Famisa is a Software Engineer based in Berlin, Germany and has been developing for Android since Gingerbread.",
+    "company": "",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/segunfamisa/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/segunfamisa",
+            "name": "Twitter"
+        },{
+            "icon": "website",
+            "link": "https://segunfamisa.com",
+            "name": "Website"
+        }
+    ],
+    "order": 0,
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/segunfamisa",
+          "name": "gde",
+          "description": "Google Developer Expert for Android"
+        }
+    ]
+  }

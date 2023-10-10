@@ -38,8 +38,16 @@
     "permalink": "/blog",
     "label": "Blog"
   }],
-  "navigation": [
+  "navigation": [{
+      "route": "speakers",
+      "permalink": "/speakers",
+      "label": "Speakers"
+    },
     {
+      "route": "schedule",
+      "permalink": "/schedule",
+      "label": "Schedule"
+    },{
       "route": "home",
       "permalink": "/",
       "label": "Home"

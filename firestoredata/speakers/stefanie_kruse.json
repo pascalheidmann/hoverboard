@@ -1,0 +1,26 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/rethink.png",
+    "bio": "Stefanie Kruse is a Hamburg-based product designer dedicated to building, consulting on, and advocating for responsible and sustainable digital products. She combines her educational background in business and computer science with a love for design and great user experiences and can draw from years of product management experience in sustainability-focused companies. Today, she is working with organizations to create innovative B2C solutions that empower individuals to embrace a climate-friendly lifestyle.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FStefanie_Kruse.jpg?alt=media&token=0f90b363-c922-4611-8c33-ab2be2a3d87c",
+    "title": "",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FStefanie_Kruse.jpg?alt=media&token=0f90b363-c922-4611-8c33-ab2be2a3d87c",
+    "companyLogoUrl": "/images/logos/rethink.png",
+    "name": "Stefanie Kruse",
+    "shortBio": "Stefanie Kruse is a Hamburg-based product designer dedicated to building, consulting on, and advocating for responsible and sustainable digital products. She combines her educational background in business and computer science with a love for design and great user experiences and can draw from years of product management experience in sustainability-focused companies. Today, she is working with organizations to create innovative B2C solutions that empower individuals to embrace a climate-friendly lifestyle.",
+    "company": "reThink Product",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/stefaniekruse/",
+            "name": "LinkedIn"
+        },{
+            "icon": "website",
+            "link": "https://rethink-product.com",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }

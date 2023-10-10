@@ -1,0 +1,256 @@
+{
+    "2023-11-03": {
+      "date": "2023-11-03",
+      "dateReadable": "November 3",
+      "timeslots": [
+        {
+          "startTime": "09:30",
+          "endTime": "09:45",
+          "sessions": [
+            {
+              "items": ["101"]
+            }
+          ]
+        },{
+          "startTime": "10:00",
+          "endTime": "10:45",
+          "sessions": [
+            {
+              "items": ["102"]
+            },{
+              "items": ["202"]
+            },{
+              "items": ["302"]
+            }
+          ]
+        },{
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "sessions": [
+            {
+              "items": ["103"]
+            },{
+              "items": ["203"]
+            },{
+              "items": ["303"]
+            }
+          ]
+        },{
+          "startTime": "11:45",
+          "endTime": "13:45",
+          "sessions": [
+            {
+              "items": ["104"]
+            }
+          ]
+        },{
+          "startTime": "13:00",
+          "endTime": "13:45",
+          "sessions": [
+            {
+              "items": ["105"]
+            },{
+              "items": ["205"]
+            },{
+              "items": ["305"]
+            },{
+              "items": ["405"],
+              "extend": 2
+            }
+          ]
+        },{
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "sessions": [
+            {
+              "items": ["106"]
+            },{
+              "items": ["206"]
+            },{
+              "items": ["306"]
+            }
+          ]
+        },{
+          "startTime": "14:45",
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": ["107"]
+            }
+          ]
+        },{
+          "startTime": "15:30",
+          "endTime": "16:15",
+          "sessions": [
+            {
+              "items": ["000"]
+            },{
+              "items": ["208"]
+            },{
+              "items": ["308"]
+            },{
+              "items": ["408"],
+              "extend": 2
+            }
+          ]
+        },{
+          "startTime": "16:30",
+          "endTime": "17:15",
+          "sessions": [
+            {
+              "items": ["000"]
+            },{
+              "items": ["209"]
+            },{
+              "items": ["309"]
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Mobile"
+        },
+        {
+          "title": "Cloud"
+        },
+        {
+          "title": "Web"
+        },
+        {
+          "title": "Workshop"
+        }
+      ]
+    },
+    "2023-11-04": {
+      "date": "2023-11-04",
+      "dateReadable": "November 4",
+      "timeslots": [
+        {
+          "startTime": "09:30",
+          "endTime": "09:45",
+          "sessions": [
+            {
+              "items": ["501"]
+            }
+          ]
+        },{
+          "startTime": "10:00",
+          "endTime": "10:45",
+          "sessions": [
+            {
+              "items": ["502"]
+            },{
+              "items": ["602"]
+            },{
+              "items": ["702"]
+            }
+          ]
+        },{
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "sessions": [
+            {
+              "items": ["503"]
+            },
+            {
+              "items": ["603"]
+            },
+            {
+              "items": ["703"]
+            }
+          ]
+        },{
+          "startTime": "11:45",
+          "endTime": "13:45",
+          "sessions": [
+            {
+              "items": ["504"]
+            }
+          ]
+        },{
+          "startTime": "13:00",
+          "endTime": "13:45",
+          "sessions": [
+            {
+              "items": ["505"]
+            },
+            {
+              "items": ["605"]
+            },
+            {
+              "items": ["000"]
+            },
+            {
+              "items": ["805"],
+              "extend": 2
+            }
+          ]
+        },{
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "sessions": [
+            {
+              "items": ["000"]
+            },
+            {
+              "items": ["000"]
+            },
+            {
+              "items": ["705"]
+            }
+          ]
+        },{
+          "startTime": "14:45",
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": ["507"]
+            }
+          ]
+        },{
+          "startTime": "15:30",
+          "endTime": "16:15",
+          "sessions": [
+            {
+              "items": ["508"]
+            },
+            {
+              "items": ["000"]
+            },
+            {
+              "items": ["000"]
+            }
+          ]
+        },{
+          "startTime": "16:30",
+          "endTime": "17:15",
+          "sessions": [
+            {
+              "items": ["000"]
+            },
+            {
+              "items": ["000"]
+            },
+            {
+              "items": ["000"]
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Mobile"
+        },
+        {
+          "title": "Cloud"
+        },
+        {
+          "title": "Web"
+        },
+        {
+          "title": "Workshop"
+        }
+      ]
+    }
+  }

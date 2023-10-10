@@ -1,0 +1,30 @@
+{
+    "country": "Italy",
+    "featured": true,
+    "companyLogo": "/images/logos/sorintlab.png",
+    "bio": "Ivan is an Italian guy who loves coding and computer stuff. He's based in a small town in the north of Italy.\nSince 2014, he works as a software developer. He's mainly focused on server-side programming, especially in building Web APIs and serverless applications. Two of his major concerns about software development are code security and tests.\nDuring his spare time, he loves sharing his knowledge with the community by giving talks related to computer science stuff. He also writes technical blog posts sharing his expertise and best practices. He's also a mentor for junior developers and also for students that aim to be professional software developers in their life. He tries to help everyone (without distinction in gender, nationality, age, and so on) with empathy and determination. He's also a course author.\nOne of the things he loves most by far is problem-solving. His attitude has been reflected in platforms such as Stack Overflow on which he tries to help others to figure out their challenges.\nHe's a great listener. One of his mantras is: \"we can learn everything from everyone\". He's funny and he loves spending time with friends and geeks. During all of his activities, his primary goal is to not be toxic in the community. He always tries to help others with a smile on his face regardless of how difficult it is.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FIvan_Pesenti.jpg?alt=media&token=a23b7359-296a-4725-8522-c1f337ef501e",
+    "title": "SoftwareDeveloper@SorintLab",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FIvan_Pesenti.jpg?alt=media&token=a23b7359-296a-4725-8522-c1f337ef501e",
+    "companyLogoUrl": "/images/logos/sorintlab.png",
+    "name": "Ivan Pesenti",
+    "shortBio": "Ivan is an Italian guy who loves coding and computer stuff. He's based in a small town in the north of Italy.",
+    "company": "SorintLab",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ivan-pesenti-735232119/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/ossandev",
+            "name": "Twitter"
+        },{
+            "icon": "instagram",
+            "link": "https://www.instagram.com/ossandev/",
+            "name": "Instagram"
+        }
+    ],
+    "order": 0
+  }

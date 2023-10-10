@@ -1,0 +1,27 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/ubilabs.png",
+    "bio": "Sabrina is a Software Engineer focusing on web maps and accessibility. Her big dream is for every application to be accessible one day. She is also a GDE in Web technologies and the Co-Founder of the Social Developers Club.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FSabrina_Jodexnis.webp?alt=media&token=f7e80b23-48a8-47da-9f61-a557c3487fc1",
+    "title": "Software Engineer FrontEnd & GDE Web",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FSabrina_Jodexnis.webp?alt=media&token=f7e80b23-48a8-47da-9f61-a557c3487fc1",
+    "companyLogoUrl": "/images/logos/ubilabs.png",
+    "name": "Sabrina Jodexnis",
+    "shortBio": "Sabrina is a Software Engineer focusing on web maps and accessibility. Her big dream is for every application to be accessible one day. She is also a GDE in Web technologies and the Co-Founder of the Social Developers Club.",
+    "company": "Ubilabs",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/sabrina-jodexnis/",
+            "name": "LinkedIn"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/binicodes",
+            "name": "Twitter"
+        }
+    ],
+    "order": 0
+  }

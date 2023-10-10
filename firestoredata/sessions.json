@@ -1,0 +1,288 @@
+{
+    "000": {
+        "complexity": "",
+        "description": "",
+        "language": "English",
+        "tags": [],
+        "title": "TO BE ANNOUNCED"
+    },
+    "101": {
+        "complexity": "",
+        "description": "Welcome",
+        "language": "English",
+        "tags": [],
+        "title": "Welcome"
+    },
+    "102": {
+        "complexity": "Intermediate",
+        "description": "Kotlin Multiplatform is getting more and more hype every day. It started as an experimental technology, then alpha, beta and now it's on the path of becoming stable. We constantly read of new companies and teams that are using KMP for experiments and production projects alike. And we're left wondering: why pick KMP over any other cross-platform solution? How to approach it? And, most importantly, is it possible to start using it in existing projects? In this talk, I'll answer these questions, clarifying all the doubts and making you ready to use and love Kotlin Multiplatform.",
+        "language": "English",
+        "speakers": ["marco_gomiero"],
+        "tags": ["Mobile"],
+        "title": "Hi, have you met Kotlin Multiplatform?"
+    },
+    "103": {
+        "complexity": "Beginner",
+        "description": "If at the very beginning of mobile development (2008) and until recently, we only had official solutions provided by manufacturers which were considered to be serious solutions for creating mobile applications, in 2023 the possibilities have multiplied. Google and Apple have introduced solutions to realize the UI in a declarative way (Jetpack Compose, Swift UI), React Native has a large market share, Flutter continues to grow, and solutions like KMM (Kotlin Multiplatform Mobile) allow the sharing of business code between the two platforms. What solution should you start as a dev? As a business? In this talk, we will present you with elements to help you in your choice by answering the following questions: - Why and how each solution was created? On what basis? By who? - How it works ? How is the code executed? What are the technical limitations? - What are the possibilities for integrating these technologies into a new project? In an existing project? Can we mix these technologies?",
+        "language": "English",
+        "speakers": ["elaine_dias_batista"],
+        "tags": ["Mobile"],
+        "title": "How to pick the right mobile technology"
+    },
+    "104": {
+        "complexity": "Beginner",
+        "description": "Finger Food",
+        "language": "English",
+        "speakers": [],
+        "tags": [],
+        "title": "Lunch Break"
+    },
+    "105": {
+        "complexity": "Beginner",
+        "description": "In our fast paced world, there is just too much information, and it often seems impossible to keep up with everything that’s going on.\n\n If you ever felt that you couldn’t possibly remember everything you saw, read, or even didn’t read, come to this talk and I will show you how I build an app that allows me to do just that.\n\n I will show you how I\n- used SwiftUI to build a beautiful app that works across Apple’s platforms\n- used Cloud Firestore to store gigabytes of data, keeping it in sync across all of my devices\n- used the PaLM API to summarise articles, and ask my app questions about articles\n- used LangChain to connect PaLM to my personal data store\n- Use Siri to provide a natural language interface that allows me to query my knowledge base hands-free",
+        "language": "English",
+        "speakers": ["peter_friese"],
+        "tags": ["Mobile"],
+        "title": "How I used Siri, PaLM, LangChain, and Firebase to create an Exobrain"
+    },
+    "106": {
+        "complexity": "Beginner",
+        "description": "Emergency bug fixes take far too long and are nerve-wracking when your code changes have to be reviewed by Apple and Google before they are released to your users. Code Push promises to alleviate this stress by allowing you to deploy updates directly to user devices in real time, bypassing the update process.\n\nIn this talk, we will explore how this works, whether Shore Bird - the latest code push solution for Flutter - is worth your money, and what other solutions there are to act fast when your app crashes.",
+        "language": "English",
+        "speakers": ["florentine_draeger"],
+        "tags": ["Mobile"],
+        "title": "Code Push for Flutter - worth your money?"
+    },
+    "107": {
+        "complexity": "Beginner",
+        "description": "",
+        "language": "English",
+        "speakers": [],
+        "tags": [],
+        "title": "Coffee Break"
+    },
+    "202": {
+        "complexity": "Beginner",
+        "description": "Imagine how good it would be to have a magic button to set up and integrate a brand-new microservice in your ecosystem in XX minutes. Infrastructure, CI/CD, and basic code snippets all in one.\n\nThis talk aimed to familiarize you with the composable approach -- closest to the \"magic button\" as possible.\n\nIn this session, we'll walk you through how Terraform conjures infrastructure like magic, shared workflows streamline processes, and Maven archetypes simplify code generation.\n\nAs the cherry on top -- live demo of the accelerator approach with Google cloud platfrom.",
+        "language": "English",
+        "speakers": ["kateryna_hrytsaienko"],
+        "tags": ["Cloud"],
+        "title": "Speed Up Microservice Setup with Composable Approach"
+    },
+    "203": {
+        "complexity": "Beginner",
+        "description": "Unit tests are essential for ensuring the quality of Go code, but they are not the only way to test your code.\n\nIn this talk, we will live-code into a variety of best practices around testing including some advanced strategies, including:\n- Database integration testing with test-containers for isolated and repeatable database read/write test cases.\n- The art of HTTP/gRPC with recorders and replayers for seamless integration with external services.\n- BDD with Gherkin as your testing language to enhance collaboration with stakeholders.",
+        "language": "English",
+        "speakers": ["damiano_petrungaro"],
+        "tags": ["Cloud"],
+        "title": "Beyond the Basics: Elevate Your Go Testing Game"
+    },
+    "205": {
+        "complexity": "Beginner",
+        "description": "The `@FlutterMerge` Twitter Bot, written in pure Dart, is keeping us updated with the latest Flutter PR merges into the `master` branch for the past four years. Keeping it running wasn’t easy and required multiple major changes.\n\nThrough Pascal's journey of building the Bot, you'll learn valuable lessons about building and running a long-term server-side project in Dart. Attendees can expect to gain insights into best practices including\n\n- Taking screenshots with puppeteer\n- Handle exceptions gracefully\n- How to detect downtimes\n- Deploy the bot on your own Linux server\n- How to pack the Bot for Google Cloud Run\n\nWhether you plan to write your next web service in Dart or not, this talk is an opportunity to learn from Pascal's experiences to improve your own projects.",
+        "language": "English",
+        "speakers": ["pascal_welsch"],
+        "tags": ["Cloud"],
+        "title": "From Puppeteer to Cloud Run: The @FlutterMerge Twitter Bot Story"
+    },
+    "206": {
+        "complexity": "Beginner",
+        "description": "There are a lot of conferences out who are looking for speakers. Placing a talk is still hard. Before we even get to the point of placing a talk, we need to come up with the hardest part, what to talk about.\nLet’s dive into a Road trip, beginning with undoubtedly the hardest part: how to come up with a Topic to talk about.\nContinuing from there, we move forward on how to draft the proposal for the talk - I will share a bit from both sides - what a speaker wants to deliver and what a program committee wants to see.\nWe will also take a quick look on how to find the events that might be interesting and how to get support.\nIn the end, let's also chat about how to deal with rejections - as they will come.",
+        "language": "English",
+        "speakers": ["mario_fahllandt"],
+        "tags": ["Cloud"],
+        "title": "How to create a story? - A Road trip to follow from Topic creation to proposal writing"
+    }
+    ,
+    "208": {
+        "complexity": "Beginner",
+        "description": "Sustainability is becoming increasingly important in all industries, including IT. This presentation will discuss the key aspects of sustainability in IT, including sustainable cloud computing. It will also highlight the challenges and opportunities of implementing sustainability in IT. By the end of the presentation, attendees will have a good understanding of the importance of sustainability in IT and the steps that can be taken to reduce the environmental impact of IT operations.",
+        "language": "English",
+        "speakers": ["franciso_riveros_escobar"],
+        "tags": ["Cloud"],
+        "title": "Embracing Sustainability in the Cloud"
+    },
+    "209": {
+        "complexity": "Intermediate",
+        "description": "In this advanced level talk you learn about the concepts and lessons learned of moving a 30 year old complex monolith to a modern microservice architecture running on Kubernetes to be sold as SaaS. This includes beside technical details also organisational aspects that have to change if you want to do this type of migration.",
+        "language": "English",
+        "speakers": ["jathavan_sriram"],
+        "tags": ["Cloud"],
+        "title": "Stories from the trenches - Migrating a 30y monolith to a microservice SaaS running on K8S"
+    },
+    "302": {
+        "complexity": "Intermediate",
+        "description": "The Navigator is dead, long live the Router! Although a bit exaggerated, the Router definitely has its benefits and can solve common problems faced when implementing more complex app routing scenarios. The Navigator is still relevant though and the Router is in fact designed to be able to work alongside the Navigator. What the differences between these two approaches are, what limitations and challenges we are facing, and how navigation in Flutter works in general, will be covered in this workshop! With hands-on examples which can and should be followed alongside the workshop, you will get a better understanding of how to solve navigation in your Flutter project with more confidence!\n\nRequirements (to follow alongside the workshop): Device with Flutter installed as well as an internet connection to install additional pub dependencies.",
+        "language": "English",
+        "speakers": ["balram_chavan"],
+        "tags": ["Web"],
+        "title": "The Fusion of Web Development and AI"
+    },
+    "303": {
+        "complexity": "Beginner",
+        "description": "Explore the future of maps with Martin as he unveils the latest innovations from the past year. Discover photorealistic 3D maps, data-driven styling for large datasets, cloud-based maps styling, and environmental APIs to visualize solar potential and air quality.\n\nWe'll also cover TypeScript support and a React component library. This talk will equip you with practical knowledge and inspire new possibilities in location-based services.\n\nJoin us and be part of the future of mapping!",
+        "language": "English",
+        "speakers": ["martin_kleppe"],
+        "tags": ["Web"],
+        "title": "Whats New in Google Maps Platform"
+    },
+    "305": {
+        "complexity": "Beginner",
+        "description": "I have been working in web development for 13 years. I worked as a single developer, as a team member, team leader, and as a manager who is responsible for the success of the project.\nQuite often, Frontend work is the final step before the releases.\nHow not to go crazy when you have just 2 weeks before the release, and the design is not yet fully ready?\nWhat to do if you have a new technology stack and the team has not already handled it? What if the important developers leave the team before the release?\nLet’s talk about how to build processes in a team to have a self-managing team with a healthy environment.\nAt some point, each of us realizes that our job is not only moving Jira tickets. :)",
+        "language": "English",
+        "speakers": ["vasilika_klimova"],
+        "tags": ["Web"],
+        "title": "Happy Healthy Team"
+    },
+    "306": {
+        "complexity": "Beginner",
+        "description": "DevOps is always known and common for the backend, but it is for both Frontend and Backend development, as it is a collection of sets of tools to accelerate our daily tasks and transfer everything from manual to automation.\n\nHowever, DevOps for frontend projects is slightly different from Backend, and here in this talk, I will walk you through details of what DevOps means for frontend developers, and how to create a CI/CD pipeline that contributes to improving productively and releasing cycle.\n\nKey takeaways:\n\n- The different types of CI/CD pipeline\n- Project design, architecture, and modularisation\n- Decouple services and reduce cycle dependencies\n- Tool configuration\n- Types of pipelines for integration, release, and deployment\n- Application versioning and infrastructure management",
+        "language": "English",
+        "speakers": ["teresa_wu"],
+        "tags": ["Web"],
+        "title": "DevOps for Frontend"
+    },
+    "308": {
+        "complexity": "Beginner",
+        "description": "Accessibility is becoming a significant topic in the next year, as US and European laws are forcing a lot of industry fields to adjust their websites to become overall accessible. However, product improvements are always first, and features must be released, so let’s add some accessibility in the end, right?\nTotally no! Let’s go through the process of what it takes to make a website more accessible. We will understand certain pitfalls and typical mistakes developers make when working on accessibility and see how to improve accessibility without starting our whole project from scratch.",
+        "language": "English",
+        "speakers": ["sabrina_jodexnis"],
+        "tags": ["Web"],
+        "title": "“Adding accessibility” made it worse - but why?"
+    },
+    "309": {
+        "complexity": "Beginner",
+        "description": "So what's the state of Angular?\nWhat features are new?\nWhat to come?\nI want to show you all the good stuff and the ideas.",
+        "language": "English",
+        "speakers": ["david_muellerchen"],
+        "tags": ["Web"],
+        "title": "State of Angular"
+    },
+    "405": {
+        "complexity": "Beginner",
+        "description": "Web accessibility is becoming mandatory for a lot of us. Not only is the number of people growing that are dependent on accessibility, but laws also require websites to become accessible right now!\n\nIn this workshop, participants will learn the basics and relevant techniques to make a website accessible. We will experience an inaccessible website, learn how to use Chrome DevTools to inspect and find the accessibility problems, and then correct them step by step until we have an overall accessible website experience.\n\nWeb Accessibility will no longer be a mystery :)",
+        "language": "English",
+        "speakers": ["sabrina_jodexnis"],
+        "tags": ["Workshop"],
+        "title": "Web Accessibility Workshop"
+    },
+    "408": {
+        "complexity": "Beginner",
+        "description": "Flutter is a great multi-platform framework, that provides an opportunity to create not only mobile but also web and desktop apps, but web and desktop applications have different UI/UX in comparison with Mobile, at least because they need keyboard and mouse control. It is completely different than working with a touchscreen.\nIn this workshop, I'm going to show, how to remake a mobile app into a web/desktop one and figure out how to properly manage focus and what a hover effect is.",
+        "language": "English",
+        "speakers": ["sasha_denisov"],
+        "tags": ["Workshop"],
+        "title": "Workshop: Flutter app Journey from Mobile to Web and Desktop"
+    },
+    "501": {
+        "complexity": "",
+        "description": "Welcome",
+        "language": "English",
+        "tags": [],
+        "title": "Welcome"
+    },
+    "502": {
+        "complexity": "Intermediate",
+        "description": "Flutter is a great multi-platform framework, that provides an opportunity to create not only mobile but also web and desktop apps, but web and desktop applications have different UI/UX in comparison with Mobile, at least because they need keyboard and mouse control. It is completely different than working with a touchscreen.\nIn this workshop, I'm going to show, how to remake a mobile app into a web/desktop one and figure out how to properly manage focus and what a hover effect is.",
+        "language": "English",
+        "tags": ["Mobile"],
+        "speakers": ["sasha_denisov"],
+        "title": "Improving Firebase Backend for Flutter App through Cloud Functions"
+    },
+    "503": {
+        "complexity": "Intermediate",
+        "description": "This session will give you a head start with actionable advice on the journey to Inspect, Improve and Monitor your app's performance with the Android Performance development process. You'll learn the latest in Baseline Profiles, Perfetto Tracing and Benchmarking.",
+        "language": "English",
+        "tags": ["Mobile"],
+        "speakers": ["ben_weiss"],
+        "title": "Android App Performance in a Nutshell"
+    },
+    "504": {
+        "complexity": "Beginner",
+        "description": "Finger Food",
+        "language": "English",
+        "speakers": [],
+        "tags": [],
+        "title": "Lunch Break"
+    },
+    "505":{
+        "complexity": "Intermediate",
+        "description": "The Android development world has changed, and devices no longer fit into specific buckets like they used to - where mobile devices were phones or tablets. It is now possible for the same device to look like both, especially with the onset of foldable devices. We now have many other form factors like watches, TVs, and even car entertainment systems supporting Android. Now is the time to build smarter and increase productivity.\n\nIn this talk, we will go through how to support multiple form factors using powerful APIs introduced by Google. APIs like window size class and Jetpack Compose. We will examine how Jetpack Compose makes it incredibly easy to build adaptive layouts that improve user experience across Android devices.\nFrom tablets to foldable devices to TVs, we will also talk about canonical patterns for supporting adaptive layouts and examples from the Accompanyist that we can use to achieve them easily.\n\nAt the end of the talk, you will learn practical steps you can take to support adaptive layouts in your app and ultimately deliver a top-class experience for your users.",
+        "language": "English",
+        "speakers": ["oluwasegun_famisa"],
+        "tags": ["Mobile"],
+        "title": "Building adaptive layouts for multiple form factors on Android with Jetpack Compose."
+    },
+    "507": {
+        "complexity": "Beginner",
+        "description": "",
+        "language": "English",
+        "speakers": [],
+        "tags": [],
+        "title": "Coffee Break"
+    },
+    "508":{
+        "complexity": "Beginner",
+        "description": "Technology holds the key to solving our environmental and societal problems, right?\n\nBut in reality, digital products are part of the problem, from their environmental impact to promoting inequalities and wasteful behaviors in consumers. Looking into the UN Sustainable Development Goals, we can raise awareness about the unsustainable aspects of digital products.\n\nBut there is hope: a growing movement of tech professionals from designers to developers to product people are contributing to a more responsible and eco-friendly internet. In this talk, we will explore actionable ideas to make your digital products more sustainable and you will learn how to join the movement and where to get started with sustainable product development.",
+        "language": "English",
+        "speakers": ["stefanie_kruse"],
+        "tags": ["Mobile"],
+        "title": "reThinking Digital Products: What tech people can do for a better future."
+    },
+    "602": {
+        "complexity": "Beginner",
+        "description": "A case study on how an order processing system, processing 50,000 orders daily for an international retailer spread across multiple continents and jurisdictions, is migrated to the cloud. The legacy system is implemented in PL/SQL and must be migrated during ongoing operations.\n\nThe presentation will cover all aspects from testing, monitoring, to development and the application of Site Reliability Engineering.\n\nFurthermore, less technical topics will be introduced, such as the systematic composition of teams to ensure the necessary technical as well as domain-specific expertise.",
+        "language": "English",
+        "tags": ["Cloud"],
+        "speakers": ["randy_gupta"],
+        "title": "From Practice: Migration of an Order Processing System to the Cloud"
+    },
+    "603": {
+        "complexity": "Beginner",
+        "description": "In an environment that often seeks quick fixes and instant gratification, it's tempting to imagine team leadership as simple as making instant noodles in three minutes. But, this analogy may seem superficial when you see the challenging nature of effective leadership.",
+        "language": "English",
+        "tags": ["Cloud"],
+        "speakers": ["rodolfo_dias"],
+        "title": "Beyond Instant Noodles: The challenges of Team Leadership"
+    },
+    "605": {
+        "complexity": "Beginner",
+        "description": "Sustainability in the cloud is the continuous dedication to primarily decrease energy usage and optimize efficiency across all aspects of workloads.\n\nAssuming the responsibility for your emissions embodies ethical values, cost-efficiency, regulatory compliance, and environmental impact awareness.\nIt also reflects your commitment to being the part of the solution rather than contributing to the problem.\n\nIn this talk you will learn about design principles, best-practices, potential trade-offs, and improvement plans you can use to meet sustainability targets for your Google Cloud workloads.",
+        "language": "English",
+        "tags": ["Cloud"],
+        "speakers": ["irine_kokilashvili"],
+        "title": "Sustainability for workloads in Google Cloud"
+    },
+    "702": {
+        "complexity": "Beginner",
+        "description": "In my talk, I'll provide a clear and detailed explanation of the problem of poor rendering performance in an Angular application and web apps in general.\nI'll use specific examples (case study) and techniques such as DevTools Performance Monitor and Performance Timeline Record to give a technical understanding of the issue.\nI'll also provide a step-by-step process for investigating and solving the problem. My content would be useful for developers who are familiar with Angular and are interested in improving the performance of their applications.",
+        "language": "English",
+        "tags": ["Web"],
+        "speakers": ["rakia_ben_sassi"],
+        "title": "Speeding Up Your Angular App: Techniques for Optimizing Rendering Performance"
+    },
+    "703": {
+        "complexity": "Beginner",
+        "description": "Discover all the cool features of the Chrome DevTools that allows web developers to edit pages on-the-fly, diagnose problems quickly, improve your load performance, and more, which ultimately helps you to build a better and faster website.\n\nThis session contains a full 20-40 minutes of live demo of Chrome DevTools, including showing all the must-know features, useful but rarely-known features, DevTools behind-the-scene, how to contribute to DevTools, as well as live demo of the very first version of DevTools.\n\nNo presentation slides, only live demo! What could possibly go wrong? ( ͡° ͜ʖ ͡°)",
+        "language": "English",
+        "tags": ["Web"],
+        "speakers": ["henry_lim"],
+        "title": "Chrome DevTools LIVE LIVE LIVE"
+    },
+    "705": {
+        "complexity": "Beginner",
+        "description": "",
+        "language": "English",
+        "tags": ["Web"],
+        "speakers": ["adrian_metzner"],
+        "title": "Who are you? Authentication and authorization done right!"
+    },
+    "805": {
+        "complexity": "Beginner",
+        "description": "gRPC is an open-source remote procedure call (RPC) framework used in client-server communication. The project is part of the Cloud Native Computing Foundation (CNCF). gRPC supports lots of programming languages natively or with the usage of some third-party plugins. His key aspects are low latency, high scalability, reliability, etc.\nProtocol Buffers are a neutral mechanism for serializing structured data. They serve to exchange data between parties in a fast and efficient way. They're similar to JSON messages but faster and smaller. Together with gRPC, they form a proof-of-bullets combination.\nThe third actor in this workshop is Go. We'll rely on it as it fits very well in this scenario. His popularity is blazing growing in the latest years. It's fresh and free from old OOP paradigms.\nThanks to these three, we'll build an API to manage TODOs. The application will expose four handlers, one for each kind of communication forecasted by gRPC.\nLet's take a closer look at the workshop agenda:\n\n- Theoretical introduction to gRPC\n- gRPC lifecycle (Unary RCP, Server streaming RPC, Client streaming RCP, Bidirectional streaming RCP)\n- Overview of Protocol Buffers\n- How Protocol Buffers Work and .proto files\n- Protocol Buffers definition syntax\n- Check if our environment has everything we need to follow along with the workshop\n- Write an API for managing the TODOs\n- Definition of the .proto file\n- Generation through the protoc plugin of the gRPC scaffolded code\n- Set the gRPC server up\n- Set the gRPC client up\n- Run the program\n\nBy following this workshop, you'll get familiar with the basics of gRPC, Protocol Buffers, and the Go programming language. You'll get the fundamentals to start growing your expertise in these topics. Keep in mind that if you start well, you're at 50% of the journey!",
+        "language": "English",
+        "tags": ["Workshop"],
+        "speakers": ["ivan_pesenti"],
+        "title": "gRPC, protobuf, and Go"
+    }
+}

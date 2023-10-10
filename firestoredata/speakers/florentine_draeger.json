@@ -1,0 +1,22 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/protofy.png",
+    "bio": "Florentine is a front-end engineer at Protofy, specialising in developing apps for clients across industries. As a Flutter enthusiast, she is constantly exploring the latest features and advancements in the framework, and loves sharing her knowledge and expertise with others.\n\nShe is an active mentor for girls interested in pursuing careers in technology and believes in the importance of representation and support for underrepresented groups in tech. To further this goal, she writes about, gives talks and workshops on various topics, including her favorite platform, Flutter, and the role of women in technology. Her goal is to inspire and encourage more FLINTA* to explore careers in technology and to be an advocate for diversity and inclusivity in the industry.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FFlorentine_Draeger.png?alt=media&token=078ec11c-4721-4521-af87-bba51d9a9242",
+    "title": "Tech-feminist, Flutter enthusiast, Women Tech-maker Ambassador and Frontend Dev",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FFlorentine_Draeger.png?alt=media&token=078ec11c-4721-4521-af87-bba51d9a9242",
+    "companyLogoUrl": "/images/logos/protofy.png",
+    "name": "Florentine Draeger",
+    "shortBio": "Florentine is a front-end engineer at Protofy, specialising in developing apps for clients across industries.",
+    "company": "Protify",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/florentine-draeger-987422142/",
+            "name": "LinkedIn"
+        }
+    ],
+    "order": 0
+  }

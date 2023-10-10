@@ -1,0 +1,41 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/webenius.png",
+    "bio": "Rakia is a Google Developer Expert in Angular, WTM Ambassador, and a content creator. She has an experience of 17 years as a software engineer during which she has worked with many technologies and frameworks. She is active on Medium (150+ articles, 700K+ views, https://rakiabensassi.medium.com/), and YouTube: 55K+ views: https://www.youtube.com/@tekforge. She has also a Udemy video course (25K+ students) about Web Performance & Memory Leaks: https://www.udemy.com/course/identify-and-fix-javascript-memory-leaks",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FRakia_Ben_Sassi.png?alt=media&token=e2078659-b68b-4ecd-8eb1-31f21ca658a7",
+    "title": "GDE Angular, WTM Ambassador, TechLead, and Content Creator",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FRakia_Ben_Sassi.png?alt=media&token=e2078659-b68b-4ecd-8eb1-31f21ca658a7",
+    "companyLogoUrl": "/images/logos/webenius.png",
+    "name": "Rakia Ben Sassi",
+    "shortBio": "Rakia is a Google Developer Expert in Angular, WTM Ambassador, and a content creator. She has an experience of 17 years as a software engineer during which she has worked with many technologies and frameworks.",
+    "company": "Webenius",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/rakia-ben-sassi-2b8373a0/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/rakiabensassi",
+            "name": "Twitter"
+        },{
+            "icon": "medium",
+            "link": "https://rakiabensassi.medium.com/",
+            "name": "Medium"
+        },{
+            "icon": "youtube",
+            "link": "https://www.youtube.com/@tekforge",
+            "name": "YouTube"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/rakia-ben-sassi",
+          "name": "gde",
+          "description": "Google Developer Expert for Angular"
+        }
+    ],
+    "order": 0
+  }

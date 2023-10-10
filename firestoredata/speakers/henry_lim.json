@@ -1,0 +1,45 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "",
+    "bio": "Henry is a Malaysian Google Developer Expert in Web Technologies. He is currently working as a frontend engineer in Hamburg, Germany.\n\nHe loves to learn, experiment and share all the cool stuffs like Progressive Web Apps, Chrome DevToosl, Project Fugu (Web Capabilities), Firebase, and more.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FHenry_Lim.png?alt=media&token=9e41926a-185d-4482-879e-d2a42375497e",
+    "title": "Google Developer Expert, Web Technologies",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FHenry_Lim.png?alt=media&token=9e41926a-185d-4482-879e-d2a42375497e",
+    "companyLogoUrl": "",
+    "name": "Henry Lim",
+    "shortBio": "Henry is a Malaysian Google Developer Expert in Web Technologies. He is currently working as a frontend engineer in Hamburg, Germany.\n\nHe loves to learn, experiment and share all the cool stuffs like Progressive Web Apps, Chrome DevToosl, Project Fugu (Web Capabilities), Firebase, and more.",
+    "company": "",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/henrylim96/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/henrylim96",
+            "name": "Twitter"
+        },{
+            "icon": "github",
+            "link": "https://github.com/limhenry",
+            "name": "GitHub"
+        },{
+            "icon": "medium",
+            "link": "https://medium.com/@limhenry",
+            "name": "Medium"
+        },{
+            "icon": "web",
+            "link": "https://limhenry.xyz/",
+            "name": "Website"
+        }
+    ],
+    "badges": [
+        {
+          "link": "https://developers.google.com/profile/u/henry",
+          "name": "gde",
+          "description": "Google Developer Expert for Web Technologies"
+        }
+    ],
+    "order": 0
+  }
