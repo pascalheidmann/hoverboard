@@ -69,14 +69,6 @@
         "tags": ["Cloud"],
         "title": "Speed Up Microservice Setup with Composable Approach"
     },
-    "203": {
-        "complexity": "Beginner",
-        "description": "Unit tests are essential for ensuring the quality of Go code, but they are not the only way to test your code.\n\nIn this talk, we will live-code into a variety of best practices around testing including some advanced strategies, including:\n- Database integration testing with test-containers for isolated and repeatable database read/write test cases.\n- The art of HTTP/gRPC with recorders and replayers for seamless integration with external services.\n- BDD with Gherkin as your testing language to enhance collaboration with stakeholders.",
-        "language": "English",
-        "speakers": ["damiano_petrungaro"],
-        "tags": ["Cloud"],
-        "title": "Beyond the Basics: Elevate Your Go Testing Game"
-    },
     "205": {
         "complexity": "Beginner",
         "description": "The `@FlutterMerge` Twitter Bot, written in pure Dart, is keeping us updated with the latest Flutter PR merges into the `master` branch for the past four years. Keeping it running wasn’t easy and required multiple major changes.\n\nThrough Pascal's journey of building the Bot, you'll learn valuable lessons about building and running a long-term server-side project in Dart. Attendees can expect to gain insights into best practices including\n\n- Taking screenshots with puppeteer\n- Handle exceptions gracefully\n- How to detect downtimes\n- Deploy the bot on your own Linux server\n- How to pack the Bot for Google Cloud Run\n\nWhether you plan to write your next web service in Dart or not, this talk is an opportunity to learn from Pascal's experiences to improve your own projects.",
