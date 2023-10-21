@@ -1,0 +1,22 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/infix.png",
+    "bio": "Oliver is an experienced developer and has been shaping and creating software from backend to frontends. He loves the productivity of working with Kotlin Multiplatform and has contributed to several libraries of the Kotlin ecosystem as well as the Kotlin compiler. Can be found on GitHub (OliverO2) and the kotlinlang Slack (Oliver O).\n\nWhen not developing, he is most probably in deep talks, dancing, snowboarding or F18 catamaran sailing whenever he gets a chance.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Foliver-okrongli.jpg?alt=media&token=fe628d10-5bc4-4be9-b3f6-a3de2676c6d4",
+    "title": "Multiplatform Software",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Foliver-okrongli.jpg?alt=media&token=fe628d10-5bc4-4be9-b3f6-a3de2676c6d4",
+    "companyLogoUrl": "/images/logos/infix.png",
+    "name": "Oliver Okrongli",
+    "shortBio": "Oliver is an experienced developer and has been shaping and creating software from backend to frontends.",
+    "company": "infix",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "website",
+            "link": "https://infix.de",
+            "name": "websitre"
+        }
+    ],
+    "order": 0
+  }

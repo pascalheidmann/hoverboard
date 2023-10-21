@@ -1,0 +1,26 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/google.svg",
+    "bio": "",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fniklas_voss.png?alt=media&token=45a8f856-3310-4573-8d2b-3f42ebcb2b2a",
+    "title": "Customer Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fniklas_voss.png?alt=media&token=45a8f856-3310-4573-8d2b-3f42ebcb2b2a",
+    "companyLogoUrl": "/images/logos/google.svg",
+    "name": "Niklas Voss",
+    "shortBio": "",
+    "company": "Google",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/niklas-voss-4ab43085/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/nikvoss_",
+            "name": "Twitter"
+        }
+    ],
+    "order": 0
+  }

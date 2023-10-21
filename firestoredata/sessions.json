@@ -53,6 +53,14 @@
         "tags": ["Mobile"],
         "title": "Code Push for Flutter - worth your money?"
     },
+    "1061": {
+        "complexity": "Intermediate",
+        "description": "During the session, we'll go through important aspects of the internal work of Flutter, which allows it to be efficient and convenient to use. We'll check inner trees, pipelines, and other mechanisms of Flutter which hiddenly do every work needed to make our code work as a Flutter application.",
+        "language": "English",
+        "speakers": ["mikhail_zotyev"],
+        "tags": ["Mobile"],
+        "title": "Flutter under the hood"
+    },
     "107": {
         "complexity": "Beginner",
         "description": "",
@@ -61,6 +69,14 @@
         "tags": [],
         "title": "Coffee Break"
     },
+    "108": {
+        "complexity": "Beginner",
+        "description": "After having met Kotlin Multiplatform with a focus on Mobile in the morning, come board a journey through time and space. Let’s explore the other planets of the KMP ecosystem, see the life forms existing there and what will be going in 2024 and beyond.\n\nWhat can you achieve today with KMP on desktops, browsers, servers, the cloud? What to expect next? Where to be cautious? Serverless functions? Pixel-perfect UIs and multithreading in browsers? Less duplicated code? Easier testing across platforms? Which architectures might help to benefit the most? After this talk, you'll know.",
+        "language": "English",
+        "speakers": ["oliver_okrongli"],
+        "tags": ["Mobile"],
+        "title": "Beyond Mobile: Take Off With Kotlin Multiplatform"
+    },
     "202": {
         "complexity": "Beginner",
         "description": "Imagine how good it would be to have a magic button to set up and integrate a brand-new microservice in your ecosystem in XX minutes. Infrastructure, CI/CD, and basic code snippets all in one.\n\nThis talk aimed to familiarize you with the composable approach -- closest to the \"magic button\" as possible.\n\nIn this session, we'll walk you through how Terraform conjures infrastructure like magic, shared workflows streamline processes, and Maven archetypes simplify code generation.\n\nAs the cherry on top -- live demo of the accelerator approach with Google cloud platfrom.",
@@ -68,6 +84,14 @@
         "speakers": ["kateryna_hrytsaienko"],
         "tags": ["Cloud"],
         "title": "Speed Up Microservice Setup with Composable Approach"
+    },
+    "203": {
+        "complexity": "Intermediate",
+        "description": "",
+        "language": "English",
+        "speakers": ["niklas_voss"],
+        "tags": ["Cloud"],
+        "title": "Ray on Kubernetes"
     },
     "205": {
         "complexity": "Beginner",
@@ -133,6 +157,14 @@
         "speakers": ["teresa_wu"],
         "tags": ["Web"],
         "title": "DevOps for Frontend"
+    },
+    "3061": {
+        "complexity": "Beginner",
+        "description": "Join us for a casual and informative fireside chat on \"Creating Tech Content\" with three special guests including tech book authors, YouTube creator, and a social media creator, each with their unique approach to tech content.\n\nDuring this conversation, they'll share their personal stories, insights, and practical tips on creating engaging tech content. From their experiences and lessons learned, you'll gain valuable takeaways for your own tech content journey.\n\nWhether you're a tech enthusiast, a budding content creator, or simply curious about the world of tech content, this chat promises to be an enjoyable and enlightening exploration of the craft. Join us and get ready for a discussion about all things tech content creation!",
+        "language": "English",
+        "speakers": ["mira_jago"],
+        "tags": ["Web"],
+        "title": "Fireside Chat: Creating Tech Content"
     },
     "308": {
         "complexity": "Beginner",
@@ -245,6 +277,14 @@
         "speakers": ["irine_kokilashvili"],
         "title": "Sustainability for workloads in Google Cloud"
     },
+    "606": {
+        "complexity": "Beginner",
+        "description": "The presentation focuses on best practices for developing machine learning pipelines and a field-proven architecture based on experience from customer projects. It will show how to address data engineering challenges, build machine learning models, and implement operational concepts of MLOps to create efficient and scalable workflows. We hope you will gain valuable insights that will help you implement your own end-to-end workflow.",
+        "language": "English",
+        "tags": ["Cloud"],
+        "speakers": ["an_dang"],
+        "title": "Architecture for ML Workflows in Google Cloud"
+    },
     "702": {
         "complexity": "Beginner",
         "description": "In my talk, I'll provide a clear and detailed explanation of the problem of poor rendering performance in an Angular application and web apps in general.\nI'll use specific examples (case study) and techniques such as DevTools Performance Monitor and Performance Timeline Record to give a technical understanding of the issue.\nI'll also provide a step-by-step process for investigating and solving the problem. My content would be useful for developers who are familiar with Angular and are interested in improving the performance of their applications.",
@@ -263,7 +303,7 @@
     },
     "705": {
         "complexity": "Beginner",
-        "description": "",
+        "description": "One major issue in web applications is identifying who I am communicating with and what this individual is allowed to do. We know many solutions for this problem, but which one fits for my application? How does OAuth and OpenID Connect work? Do I really need these complex protocols?",
         "language": "English",
         "tags": ["Web"],
         "speakers": ["adrian_metzner"],

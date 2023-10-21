@@ -1,0 +1,30 @@
+{
+    "country": "",
+    "featured": true,
+    "companyLogo": "/images/logos/wolt.png",
+    "bio": "Senior Flutter Engineer @ Wolt. Author of channel \"Oh, my Flutter\". \"Elementary\" library maintainer. Organizer of the official meetup community \"Flutter Voronezh\". Speaker and article writer. Flutter contributor.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMikhail_Zotyev.png?alt=media&token=b48a91b4-6368-4ed4-a269-f82681282f16",
+    "title": "Senior Flutter Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMikhail_Zotyev.png?alt=media&token=b48a91b4-6368-4ed4-a269-f82681282f16",
+    "companyLogoUrl": "/images/logos/wolt.png",
+    "name": "Mikhail Zotyev",
+    "shortBio": "Senior Flutter Engineer @ Wolt. Author of channel \"Oh, my Flutter\". \"Elementary\" library maintainer. Organizer of the official meetup community \"Flutter Voronezh\". Speaker and article writer. Flutter contributor.",
+    "company": "Wolt",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/mbixjkee/",
+            "name": "LinkedIn"
+        },{
+            "icon": "twitter",
+            "link": "https://twitter.com/MbIXJkee",
+            "name": "Twitter"
+        },{
+            "icon": "website",
+            "link": "https://t.me/ohmyflutter",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }

@@ -1,0 +1,31 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/infomotion.png",
+    "bio": "After completing his master's degree in business informatics at the Hochschule der Medien in Stuttgart in 2020, An Dang started the Data Science Trainee Program at INFOMOTION. Following successful completion, he focuses on the implementation of advanced analytics use cases for clients and guides them through to industrialization. Additionally, he trains new trainees and internal staff. He is also involved with the Social Developers Club, the international network for developers and tech enthusiasts.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fan-dang.jpeg?alt=media&token=4b9ba3cf-b17b-4974-a2f5-12ab5ff0e11a",
+    "title": "Adv. Analytics Consultant",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fan-dang.jpeg?alt=media&token=4b9ba3cf-b17b-4974-a2f5-12ab5ff0e11a",
+    "companyLogoUrl": "/images/logos/infomotion.png",
+    "name": "An Dang",
+    "shortBio": "After completing his master's degree in business informatics at the Hochschule der Medien in Stuttgart in 2020, An Dang started the Data Science Trainee Program at INFOMOTION. Following successful completion, he focuses on the implementation of advanced analytics use cases for clients and guides them through to industrialization. Additionally, he trains new trainees and internal staff. He is also involved with the Social Developers Club, the international network for developers and tech enthusiasts.",
+    "company": "INFOMOTION",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/An_Dang_",
+            "name": "Twitter"
+        },{
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/an-dang-ai/",
+            "name": "LinkedIn"
+        }, 
+        {
+            "icon": "instagram",
+            "link": "https://www.instagram.com/anuit_/",
+            "name": "Instagram"
+        }
+    ],
+    "order": 0
+  }

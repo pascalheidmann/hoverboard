@@ -1,0 +1,26 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/cuckoo-coding.png",
+    "bio": "I'm a former philosophy student turned app developer (Flutter) turned founder (Cuckoo Coding GmbH).\n\n I'm running an app dev agency in Hannover and we are focused on Flutter cross-plattform development. I'm mostly doing UX and project management, but I actively code as well. In June 2023 Wiley published my book „Flutter für Dummies“.\n\n I founded the Google Dev Group Hannover and the Female Techmakers Meetup Hannover. Bringing people together, learning together and supporting diversity in the tech world are important topics for me.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMira_Jago.jpg?alt=media&token=79e89f61-6ed1-4c6a-922e-a10385ca279e",
+    "title": "CEO & Coder",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2FMira_Jago.jpg?alt=media&token=79e89f61-6ed1-4c6a-922e-a10385ca279e",
+    "companyLogoUrl": "/images/logos/cuckoo-coding.png",
+    "name": "Mira Jago",
+    "shortBio": "I'm a former philosophy student turned app developer (Flutter) turned founder (Cuckoo Coding GmbH)",
+    "company": "Cuckoo Coding GmbH",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/mirajago/",
+            "name": "LinkedIn"
+        },{
+            "icon": "website",
+            "link": "https://www.cuckoo-coding.com/",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }
