@@ -1,0 +1,37 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/html5test.png",
+    "bio": "Niels is a self-professed browser geek and a Google Developer Expert and Mozilla TechSpeaker. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world. He loves procrastinating, collecting weird devices with even stranger browsers, drawing pixel art monsters, procrastinating, researching obscure browsers and tinkering with hardware. For his day job he is CTO of Salonhub and creates web applications for hair salons.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fniels-leenheer.jpg?alt=media&token=5c68ee71-ed20-4de4-a7c0-c2bae92d3ea6",
+    "title": "",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fniels-leenheer.jpg?alt=media&token=5c68ee71-ed20-4de4-a7c0-c2bae92d3ea6",
+    "companyLogoUrl": "/images/logos/html5test.png",
+    "name": "Niels Leenherr",
+    "shortBio": "Niels is a self-professed browser geek and a Google Developer Expert and Mozilla TechSpeaker. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world. He loves procrastinating, collecting weird devices with even stranger browsers, drawing pixel art monsters, procrastinating, researching obscure browsers and tinkering with hardware. For his day job he is CTO of Salonhub and creates web applications for hair salons.",
+    "company": "HTML5test",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/nielsleenheer/",
+            "name": "LinkedIn"
+        },
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/html5test",
+            "name": "Twitter"
+        },
+        {
+            "icon": "link",
+            "link": "https://html5test.com/",
+            "name": "Website"
+        },
+        {
+            "icon": "link",
+            "link": "https://nielsleenheer.com",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }

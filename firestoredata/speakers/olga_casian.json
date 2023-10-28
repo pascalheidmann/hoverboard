@@ -1,0 +1,25 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/sumup.png",
+    "bio": "With more than 14 years of experience, she is particularly passionate about technical leadership and architectural challenges. Currently, is among those who promote Kotlin at SumUp focusing on the backend.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Folga-casian.jpg?alt=media&token=84a96b55-ac53-43c9-b0c9-5199a10db356",
+    "title": "Senior Software Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Folga-casian.jpg?alt=media&token=84a96b55-ac53-43c9-b0c9-5199a10db356",
+    "companyLogoUrl": "/images/logos/sumup.png",
+    "name": "Olga Casian",
+    "shortBio": "With more than 14 years of experience, she is particularly passionate about technical leadership and architectural challenges. Currently, is among those who promote Kotlin at SumUp focusing on the backend.",
+    "company": "SumUp",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/olga-casian-27521464/",
+            "name": "LinkedIn"
+        }, {
+            "icon": "twitter",
+            "link": "https://twitter.com/olga_casian",
+            "name": "Twitter"}
+    ],
+    "order": 0
+  }

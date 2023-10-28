@@ -1,0 +1,22 @@
+{
+    "country": "USA",
+    "featured": true,
+    "companyLogo": "/images/logos/google.svg",
+    "bio": "",
+    "photo": "https://media.licdn.com/dms/image/D5603AQH6qlzzw-J2Dg/profile-displayphoto-shrink_400_400/0/1681155613293?e=1703721600&v=beta&t=xt59hl0cTY6VCHh4hNg0KtCqApxGzGidLym5WW7l3mc",
+    "title": "Senior Software Engineer",
+    "photoUrl": "https://media.licdn.com/dms/image/D5603AQH6qlzzw-J2Dg/profile-displayphoto-shrink_400_400/0/1681155613293?e=1703721600&v=beta&t=xt59hl0cTY6VCHh4hNg0KtCqApxGzGidLym5WW7l3mc",
+    "companyLogoUrl": "/images/logos/google.svg",
+    "name": "Cam Juarez",
+    "shortBio": "",
+    "company": "Google",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/camjuarez/",
+            "name": "LinkedIn"
+        }
+    ],
+    "order": 0
+  }

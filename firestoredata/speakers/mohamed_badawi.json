@@ -1,0 +1,34 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/hashicorp.png",
+    "bio": "I've been in tech for 15+ years, I've been writing in Go the past 5 years and enjoy it much, I love to contribute to open source, going to conferences and connect/network with people and hear their stories and what exciting projects they are workin on.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fmohamed-badawi.jpeg?alt=media&token=a7112826-efde-47f5-9760-f8e8c027d149",
+    "title": "Senior software engineer, curious gopher",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fmohamed-badawi.jpeg?alt=media&token=a7112826-efde-47f5-9760-f8e8c027d149",
+    "companyLogoUrl": "/images/logos/hashicorp.png",
+    "name": "Mohamed Badawi",
+    "shortBio": "I've been in tech for 15+ years, I've been writing in Go the past 5 years and enjoy it much, I love to contribute to open source, going to conferences and connect/network with people and hear their stories and what exciting projects they are workin on.",
+    "company": "Hashicorp",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/mibrahimcs/",
+            "name": "LinkedIn"
+        }, {
+            "icon": "twitter",
+            "link": "https://twitter.com/mibrahimcs",
+            "name": "Twitter"
+        }, {
+            "icon": "website",
+            "link": "https://m-mooga.com",
+            "name": "Website"
+        }, {
+            "icon": "website",
+            "link": "https://learn.hashicorp.com",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }

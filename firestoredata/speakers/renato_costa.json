@@ -1,0 +1,22 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/closelink.png",
+    "bio": "Passionate developer with 13 years of experience, Renato has been focused on Kotlin/JVM backends for the past few years, focusing especially on being a transformation agent for teams wishing to adopt Kotlin, and utilize its amazing features such as Coroutines to handle complex usecases at scale.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Frenato-costa.jpg?alt=media&token=ccc00b78-3e08-4008-ad84-4ab8fdb9e0ab",
+    "title": "Software Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Frenato-costa.jpg?alt=media&token=ccc00b78-3e08-4008-ad84-4ab8fdb9e0ab",
+    "companyLogoUrl": "/images/logos/closelink.png",
+    "name": "Renato Costa",
+    "shortBio": "Passionate developer with 13 years of experience, Renato has been focused on Kotlin/JVM backends for the past few years, focusing especially on being a transformation agent for teams wishing to adopt Kotlin, and utilize its amazing features such as Coroutines to handle complex usecases at scale.",
+    "company": "Closelink GmbH",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/renato-rezende-costa/",
+            "name": "LinkedIn"
+        }
+    ],
+    "order": 0
+  }

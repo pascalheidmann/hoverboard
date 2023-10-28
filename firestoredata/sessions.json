@@ -77,6 +77,14 @@
         "tags": ["Mobile"],
         "title": "Beyond Mobile: Take Off With Kotlin Multiplatform"
     },
+    "109": {
+        "complexity": "Beginner",
+        "description": "",
+        "language": "English",
+        "speakers": ["cam_juarez"],
+        "tags": ["Mobile"],
+        "title": "Firebase Auth Best Practices"
+    },
     "202": {
         "complexity": "Beginner",
         "description": "Imagine how good it would be to have a magic button to set up and integrate a brand-new microservice in your ecosystem in XX minutes. Infrastructure, CI/CD, and basic code snippets all in one.\n\nThis talk aimed to familiarize you with the composable approach -- closest to the \"magic button\" as possible.\n\nIn this session, we'll walk you through how Terraform conjures infrastructure like magic, shared workflows streamline processes, and Maven archetypes simplify code generation.\n\nAs the cherry on top -- live demo of the accelerator approach with Google cloud platfrom.",
@@ -84,6 +92,14 @@
         "speakers": ["kateryna_hrytsaienko"],
         "tags": ["Cloud"],
         "title": "Speed Up Microservice Setup with Composable Approach"
+    },
+    "2021": {
+        "complexity": "Beginner",
+        "description": "Artificial intelligence is rapidly transforming our world, and the Cloud Native world is no exception. AI-powered DevOps tools can help teams to automate tasks, improve efficiency, and reduce the risk of errors.\n\n This talk will explore the latest trends in AI-powered DevOps and discuss how these tools can be used to improve Infrastructure management. We will also discuss the benefits of using AI-powered DevOps tools, such as increased productivity, reduced risk, and improved performance.\n Let us take a deep dive in tools like k8sgpt and shellgpt to see the benefit they provide you in a day-to-day work. Also, we will take a look where the road might lead and what to be aware of if we utilize AI in our Kubernetes environments.",
+        "language": "English",
+        "speakers": ["mario_fahllandt"],
+        "tags": ["Cloud"],
+        "title": "AI-Powered DevOps: The Next Frontier of DevOps"
     },
     "203": {
         "complexity": "Intermediate",
@@ -108,8 +124,7 @@
         "speakers": ["mario_fahllandt"],
         "tags": ["Cloud"],
         "title": "How to create a story? - A Road trip to follow from Topic creation to proposal writing"
-    }
-    ,
+    },
     "208": {
         "complexity": "Beginner",
         "description": "Sustainability is becoming increasingly important in all industries, including IT. This presentation will discuss the key aspects of sustainability in IT, including sustainable cloud computing. It will also highlight the challenges and opportunities of implementing sustainability in IT. By the end of the presentation, attendees will have a good understanding of the importance of sustainability in IT and the steps that can be taken to reduce the environmental impact of IT operations.",
@@ -117,6 +132,14 @@
         "speakers": ["franciso_riveros_escobar"],
         "tags": ["Cloud"],
         "title": "Embracing Sustainability in the Cloud"
+    },
+    "2081": {
+        "complexity": "Beginner",
+        "description": "In this talk, I'll share a story of how one of the domains in SumUp evolved during the past 3 years and how we see it in the future. It will be about the challenges that we faced and how they were overcome to meet different functional and non-functional requirements. I hope that this talk will inspire you to consider some of the recipes for your everyday puzzles.",
+        "language": "English",
+        "speakers": ["olga_casian"],
+        "tags": ["Cloud"],
+        "title": "Domain architecture evolution"
     },
     "209": {
         "complexity": "Intermediate",
@@ -134,6 +157,14 @@
         "tags": ["Web"],
         "title": "The Fusion of Web Development and AI"
     },
+    "3021": {
+        "complexity": "Beginner",
+        "description": "Join us for an in-depth talk on creating a point-of-sale system entirely using web technologies.\n\n In this session, we will explore the power of hardware APIs, such as WebHID, WebUSB and WebSerial, and connect the browser to essential components such as a cash drawer, customer display, receipt printer and barcode scanner. We'll also touch on other new Project Fugu APIs like Idle Detection, Multi-screen Window Placement and Shape Detection. And finally, we will show how this works in practice with a live demonstration of all the components.\n\n Now, a point-of-sale system might not sound very exciting, but we're doing a deep dive into how to connect hardware devices to web apps, and show you how you would go about doing this for your own devices.",
+        "language": "English",
+        "speakers": ["niels_leenherr"],
+        "tags": ["Web"],
+        "title": "Making money with Project Fugu"
+    },
     "303": {
         "complexity": "Beginner",
         "description": "Explore the future of maps with Martin as he unveils the latest innovations from the past year. Discover photorealistic 3D maps, data-driven styling for large datasets, cloud-based maps styling, and environmental APIs to visualize solar potential and air quality.\n\nWe'll also cover TypeScript support and a React component library. This talk will equip you with practical knowledge and inspire new possibilities in location-based services.\n\nJoin us and be part of the future of mapping!",
@@ -149,6 +180,14 @@
         "speakers": ["vasilika_klimova"],
         "tags": ["Web"],
         "title": "Happy Healthy Team"
+    },
+    "3051": {
+        "complexity": "Beginner",
+        "description": "Web security is an area where I just started learning, since I consider it our responsibility as developers to build secure applications. 🔐\n\n This talk will take you with me on my journey to secure the web, starting with the top 10 security issues in todays web applications.",
+        "language": "English",
+        "speakers": ["ellen_schwartau"],
+        "tags": ["Web"],
+        "title": "First steps in Web Security"
     },
     "306": {
         "complexity": "Beginner",
@@ -253,6 +292,22 @@
         "tags": ["Mobile"],
         "title": "reThinking Digital Products: What tech people can do for a better future."
     },
+    "5081" : {
+        "complexity": "Beginner",
+        "description": "In this talk, I will discuss the use of automated UlTests on the Experitest cloud platform to streamline application testing, with a focus on reducing manual testing needs. These tests are seamlessly integrated into the CI/CD pipeline managed through GitLab. Furthermore, the talk will explore the implementation of a Mockserver to decouple applications from external services and enhance cross-platform test efficiency. Key points include:\n\n- Leveraging automated UlTests for efficient testing\n- GitLab's role in managing CI/CD for test automation\n- Decoupling applications from external services using a Mockserver",
+        "language": "English",
+        "speakers": ["nick_koops"],
+        "tags": ["Mobile"],
+        "title": "From Manual to Automated: Mobile App Testing with Experitest and Appium"
+    },
+    "509" : {
+        "complexity": "Beginner",
+        "description": "Discover Kotlin's killer feature for handling non-blocking and asynchronous code. With Kotlin coroutines, we can write idiomatic, performant code, drastically simplifying complex scenarios.\n\nIn this talk, we will discuss its building blocks, use cases, and quickly get going with live coding segments demonstrating the power and flexibility of Coroutines.",
+        "language": "English",
+        "speakers": ["renato_costa"],
+        "tags": ["Mobile"],
+        "title": "Kotlin Coroutines in Practice"
+    },
     "602": {
         "complexity": "Beginner",
         "description": "A case study on how an order processing system, processing 50,000 orders daily for an international retailer spread across multiple continents and jurisdictions, is migrated to the cloud. The legacy system is implemented in PL/SQL and must be migrated during ongoing operations.\n\nThe presentation will cover all aspects from testing, monitoring, to development and the application of Site Reliability Engineering.\n\nFurthermore, less technical topics will be introduced, such as the systematic composition of teams to ensure the necessary technical as well as domain-specific expertise.",
@@ -284,6 +339,14 @@
         "tags": ["Cloud"],
         "speakers": ["an_dang"],
         "title": "Architecture for ML Workflows in Google Cloud"
+    },
+    "609": {
+        "complexity": "Beginner",
+        "description": "From new to golang to expert let's dive deep together in golang concurrency models and understand how to write effective concurrency in Go and why it's effective.",
+        "language": "English",
+        "tags": ["Cloud"],
+        "speakers": ["mohamed_badawi"],
+        "title": "Effective concurrency in Go"
     },
     "702": {
         "complexity": "Beginner",

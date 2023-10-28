@@ -1,0 +1,26 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/orbit.png",
+    "bio": "Ellen is a coder by heart. Her skillset spans all areas of full-stack software development with a focus on web technologies. Ellen is an active participant in the tech community, speaking on technical topics at conferences, organizing meetups, and hosting her tech podcast UNMUTE IT.",
+    "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fellen-schwartau.jpg?alt=media&token=96609da9-a84b-41f6-9835-ab76dc96a88f",
+    "title": "Fullstack Software Engineer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-hamburg.appspot.com/o/23%2Fspeakers%2Fellen-schwartau.jpg?alt=media&token=96609da9-a84b-41f6-9835-ab76dc96a88f",
+    "companyLogoUrl": "/images/logos/orbit.png",
+    "name": "Ellen Schwartau",
+    "shortBio": "Ellen is a coder by heart. Her skillset spans all areas of full-stack software development with a focus on web technologies. Ellen is an active participant in the tech community, speaking on technical topics at conferences, organizing meetups, and hosting her tech podcast UNMUTE IT.",
+    "company": "Orbit",
+    "pronouns": "she/her",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ellen-schwartau-b53aa5133/",
+            "name": "LinkedIn"
+        }, {
+            "icon": "link",
+            "link": "https://ellenschwartau.com/",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }

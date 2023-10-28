@@ -1,0 +1,26 @@
+{
+    "country": "Germany",
+    "featured": true,
+    "companyLogo": "/images/logos/starfinanz-logo.svg",
+    "bio": "Nick is a mobile application software engineer at Starfinanz, specializing in Kotlin Multiplatform and boasting hands-on experience in native iOS development.\n In addition to his development skills, Nick has a background in DevOps, particularly in driving test automation using the Experitest platform, with a tech stack that includes Appium, GitLab, and Kubernetes and Docker.",
+    "photo": "",
+    "title": "Software Engineer",
+    "photoUrl": "",
+    "companyLogoUrl": "/images/logos/starfinanz-logo.svg",
+    "name": "Nick Koops",
+    "shortBio": "Nick is a mobile application software engineer at Starfinanz, specializing in Kotlin Multiplatform and boasting hands-on experience in native iOS development.\n In addition to his development skills, Nick has a background in DevOps, particularly in driving test automation using the Experitest platform, with a tech stack that includes Appium, GitLab, and Kubernetes and Docker.",
+    "company": "Starfinanz",
+    "pronouns": "he/him",
+    "socials": [
+        {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/nick-koops-63465128b/",
+            "name": "LinkedIn"
+        }, {
+            "icon": "website",
+            "link": "https://www.starfinanz.de",
+            "name": "Website"
+        }
+    ],
+    "order": 0
+  }
