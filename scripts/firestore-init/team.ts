@@ -14,7 +14,7 @@ export const importTeam = () => {
     const team = teams[Number(teamId)];
     if (team) {
       batch.set(firestore.collection('team').doc(teamId), {
-        title: '',
+        title: team.title,
       });
 
       team.members.forEach((member, id) => {
