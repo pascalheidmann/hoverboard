@@ -133,12 +133,12 @@
       "featuredSessions": {
         "description": "DevFest Hamburg brings together the world class experts in Android, Web and Cloud technologies to Hamburg for an awesome day of sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": ""
+        "link": "/schedule"
       },
-      "howItWas": {
+      "howItIs": {
         "description": "Our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2019",
-        "youtubeId": ""
+        "label": "See what Devfest is all about",
+        "youtubeId": "Gou_5qTPzwI"
       }
     },
     "statisticsBlock": {
@@ -318,7 +318,7 @@
         "callToAction": {
           "label": "Open team page",
           "_link": "/team",
-          "link": "/"
+          "link": "/team"
         }
       },
       {

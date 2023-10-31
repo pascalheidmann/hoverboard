@@ -37,11 +37,11 @@ describe('about-block', () => {
     const { shadowRootForWithin } = await fixture(html`<about-block></about-block>`);
     const { getByText } = within(shadowRootForWithin);
 
-    fireEvent.click(getByText(aboutBlock.callToAction.howItWas.label));
+    fireEvent.click(getByText(aboutBlock.callToAction.howItIs.label));
     expect(mockToggleVideoDialogs).toHaveBeenCalledTimes(1);
     expect(mockToggleVideoDialogs).toHaveBeenCalledWith({
-      title: aboutBlock.callToAction.howItWas.label,
-      youtubeId: aboutBlock.callToAction.howItWas.youtubeId,
+      title: aboutBlock.callToAction.howItIs.label,
+      youtubeId: aboutBlock.callToAction.howItIs.youtubeId,
     });
   });
 });

@@ -79,9 +79,9 @@ export class AboutBlock extends ThemedElement {
             </paper-button>
           </a>
 
-          <p>${aboutBlock.callToAction.howItWas.description}</p>
+          <p>${aboutBlock.callToAction.howItIs.description}</p>
           <paper-button class="animated icon-right" @click="${this.playVideo}">
-            <span>${aboutBlock.callToAction.howItWas.label}</span>
+            <span>${aboutBlock.callToAction.howItIs.label}</span>
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
           </paper-button>
         </div>
@@ -113,8 +113,8 @@ export class AboutBlock extends ThemedElement {
 
   private playVideo() {
     openVideoDialog({
-      title: aboutBlock.callToAction.howItWas.label,
-      youtubeId: aboutBlock.callToAction.howItWas.youtubeId,
+      title: aboutBlock.callToAction.howItIs.label,
+      youtubeId: aboutBlock.callToAction.howItIs.youtubeId,
     });
   }
 }
