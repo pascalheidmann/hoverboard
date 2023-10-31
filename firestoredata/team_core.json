@@ -1,0 +1,108 @@
+{
+  "guus":{
+    "name": "Guus van Welden",
+    "photo": "/images/people/guus_van_welden.jpg",
+    "photoUrl": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_250,h_250,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/guus_van_weelden.jpg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/guus-van-weelden-48699b70",
+        "name": "LinkedIn"
+      }
+    ],
+    "order": 0,
+    "title": ""
+  },
+  "julia":{
+    "name": "Julia Alexandra Heidingger",
+    "photo": "/images/people/julia_heidinger.jpg",
+    "photoUrl": "https://media.licdn.com/dms/image/D4E03AQHLFym1ZEEfDA/profile-displayphoto-shrink_800_800/0/1686921888120?e=1704326400&v=beta&t=sph0Y0u96dQ_pG8WOksqg1IZzD_jcKU7qhwKvFQU4yE",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/juliaheidinger/",
+        "name": "LinkedIn"
+      }
+    ],
+    "order": 1,
+    "title": ""
+  },
+  "marco":{
+    "name": "Marco Pöhler",
+    "photo": "/images/people/marco_poehler.jpg",
+    "photoUrl": "https://media.licdn.com/dms/image/C4D03AQF6Xrf81EqQfA/profile-displayphoto-shrink_800_800/0/1619163957924?e=1704326400&v=beta&t=8y15q7D1psrwDcIzLZ9oFpC4mxItpWssOmyWttSo2W8",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/marco-p%C3%B6hler-029b28110/",
+        "name": "Linkedin"
+      },{
+        "icon": "website",
+        "link": "https://www.kontaktlinsen-preisvergleich.de",
+        "name": "Website"
+      },{
+        "icon": "twitter",
+        "link": "https://twitter.com/marcopoehler",
+        "name": "Twitter"
+      }
+    ],
+    "order": 2,
+    "title": ""
+  },
+  "matthias":{
+    "name": "Matthias Friedrich",
+    "photo": "/images/people/matthias_friedrich.jpg",
+    "photoUrl": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_250,h_250,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/matthias_friedrich_Ezy1Gu3.jpg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/matthias-friedrich-62bbb25b/",
+        "name": "LinkedIn"
+      }
+    ],
+    "order": 3,
+    "title": ""
+  },
+  "pascal":{
+    "name": "Pascal Heidmann",
+    "photo": "/images/people/pascal_heidmann.jpg",
+    "photoUrl": "https://media.licdn.com/dms/image/C4E03AQHxvVUUanDgkg/profile-displayphoto-shrink_800_800/0/1617987301845?e=1704326400&v=beta&t=L81eUJ5qUjKvrajkxAXXu0_Qy3VWVRPHJTv90PPcFhk",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/pascal-heidmann/",
+        "name": "LinkedIn"
+      }
+    ],
+    "order": 4,
+    "title": ""
+  },
+  "sascha":{
+    "name": "Sascha Lorenz",
+    "photo": "/images/people/sascha_lorenz.jpg",
+    "photoUrl": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_250,h_250,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/sascha_lorenz.jpg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/saschalorenz/",
+        "name": "LinkedIn"
+      }
+    ],
+    "order": 5,
+    "title": ""
+  },
+  "rene": {
+    "name": "René Schramowski",
+    "photo": "/images/people/rene_schramoski.jpg",
+    "photoUrl": "https://media.licdn.com/dms/image/C5603AQFdA6CRPFbLCg/profile-displayphoto-shrink_800_800/0/1576663494831?e=1704326400&v=beta&t=2TemJFmlLgTsWASoM-GWGlw5eL02uBMTB_MF5lWQR8I",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/rene-schramowski/",
+        "name": "LinkedIn"
+      }
+    ],
+    "order": 6,
+    "title": ""
+  }
+}
